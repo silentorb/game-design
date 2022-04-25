@@ -50,10 +50,27 @@
 * Supernatural
 * Angel
 * RWBY
+* Jonathan Strange & Mr. Norrell
+* The Office
+* Foyle's War
 
 #### Books
 
 * Jane Austen
 * Charles Dickens
-* The Woman in White
-* Discworld
+* H. P. Lovecraft
+* The Lady in White
+* North and South
+* Alice in Wonderland
+
+#### Comics
+
+* Naruto
+* Gantz
+* Berserk
+* Watchmen
+* Tenkuu Shinpan
+* Doom Patrol (2016)
+* Spider-Man (Renew Your Vows)
+* Justice League America (International)
+* X-Factor Investigations
