@@ -1,0 +1,6 @@
+# Setting
+
+## Locations
+
+### House
+
