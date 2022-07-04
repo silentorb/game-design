@@ -23,16 +23,26 @@ Essential requirements that do not play nicely with other requirements and make 
 * Minimal randomness
 * Minimal combat
 * Strategy
-* Tactics
+* Tactical puzzle solving
 * Third-person
 * Profound
 * Multi-domain (Immersive Sim)
 * Realtime yet does not put much weight on reflexes or quick decisions
+* Concrete (Minimally abstract)
+* Meaningful, significant spatiality
+  * Treating locations as characters with distinct personalities
+  * Locations being a reflection of their masters
 
 #### Technical
 
 * Feasible for a one-man team
 * Fits within the constraints of the Unreal Engine
+
+## Tensions
+
+Ties conflicting requirements together
+
+### Tactical Puzzle Solving and Concrete
 
 ### Independent Essentials
 
