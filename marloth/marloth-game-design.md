@@ -1,5 +1,12 @@
 # Marloth Game Design
 
+## Design Tasks
+
+### Solidify Practical MVP
+
+* Start with what you know—you're favorite games that are closest to what you want to make—and draw a straight line from them to where you've been trying to go
+* The main goal is to establish a perspective to give a more objective and precise stock of what design goals are tripping me up the most and what may need to get cut for this project to be realistic
+
 ## Gameplay
 
 * Immersive Sim
@@ -28,14 +35,16 @@ Essential requirements that do not play nicely with other requirements and make 
 * Profound
 * Multi-domain (Immersive Sim)
 * Realtime yet does not put much weight on reflexes or quick decisions
-* Concrete (Minimally abstract)
+* Concrete and immersive (Minimally abstract)
 * Meaningful, significant spatiality
   * Treating locations as characters with distinct personalities
   * Locations being a reflection of their masters
+* Non-linear
 
 #### Technical
 
 * Feasible for a one-man team
+* Has a practical MVP
 * Fits within the constraints of the Unreal Engine
 
 ## Tensions
@@ -43,6 +52,14 @@ Essential requirements that do not play nicely with other requirements and make 
 Ties conflicting requirements together
 
 ### Tactical Puzzle Solving and Concrete
+
+* There's a certain depth of tactics and strategy that I have mostly only ever experienced in games with more abstract UIs
+  * Be the UI truly abstract, 2D, and/or turn-based
+* Immersive 3D games struggle to have the same depth of tactics and strategy
+  * Some notable exceptions are:
+    * DOOM 2
+    * Dark Souls
+    * Team games like TF2 and Paladins
 
 ### Independent Essentials
 

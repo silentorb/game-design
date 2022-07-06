@@ -1,3 +1,3 @@
-# Marloth Game Design
+# Game Design
 
-* A repository for design documents and inspiring media
+Christopher W. Johnson's repository for game design documents both general and for specific projects
