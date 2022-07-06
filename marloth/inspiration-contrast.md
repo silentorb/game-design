@@ -18,29 +18,31 @@
 * Dishonored
 * The Witcher 3
 * DOOM 2
+* Dungeon Defenders
 
 ## Contrast Matrix
 
-|                         |       Design Cost       |       Alan Wake        |       Dark Souls       |          Alice 2           |       Dishonored       |     The Witcher 3      |         DOOM II         |
-| ----------------------- | :--------------------: | :------------------------: | :--------------------: | :--------------------: | :--------------------: | ----------------------- | ----------------------- |
-| **Essential**     |  |                        |                        |                            |                        |                        |                        |
-| Practical MVP           | 🟠🟠 | :heavy_check_mark: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Minimal Fighting        | 🟠🟠 | :heavy_check_mark: | :skull_and_crossbones: |   :skull_and_crossbones:   |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |
-| **Primary** |  |  |  |  |  |  |  |
-| RPG Character Growth    | ⚪ | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |
-| Unique Playthroughs     | 🟠🟠 | :skull_and_crossbones: | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Non-linear (Micro)      | ⚪ | :skull_and_crossbones: | :skull_and_crossbones: |   :skull_and_crossbones:   |   :heavy_check_mark:   | :heavy_check_mark: |   :heavy_check_mark:   |
-| Strategy                | 🔴🔴🔴 | :skull_and_crossbones: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Tactical Puzzle Solving | 🟠🟠 | :skull_and_crossbones: |   :heavy_check_mark:   |   :skull_and_crossbones:   |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
-| **Secondary**           |                        |                        |                        |                            |                        |                        |                        |
-| Multi-domain            |   🔴🔴🔴   |   :heavy_check_mark:   | :skull_and_crossbones: |   :skull_and_crossbones:   |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |
-| Minimal reflexes        |   ⚪   |   :heavy_check_mark:   | :skull_and_crossbones: |     :skull_and_crossbones:     |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
-| Non-linear (Macro)      | ⚪ | :skull_and_crossbones: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |
-| Non-location reaching  | 🔴🔴🔴 | :skull_and_crossbones: | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |
-| Single map | ⚪ | :skull_and_crossbones: | :heavy_check_mark: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Non-Trivial player death | ⚪ | :skull_and_crossbones: | :heavy_check_mark: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Protecting NPCs | 🟠🟠 | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Score |  | 4 | 7 | 0 | 6 | 6 | 4 |
+|                         | Design Cost |       Alan Wake        |       Dark Souls       |        Alice 2         |       Dishonored       |     The Witcher 3      |        DOOM II         |   Dungeon Defenders    |
+| ----------------------- | :---------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| **Essential**           |             |                        |                        |                        |                        |                        |                        |                        |
+| Practical MVP           |     🟠🟠      |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| **Primary**             |             |                        |                        |                        |                        |                        |                        | :skull_and_crossbones: |
+| Minimal Fighting        |     🟠🟠      |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
+| RPG Character Growth    |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Unique Playthroughs     |     🟠🟠      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Non-linear (Micro)      |      ⚪      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| Strategy                |     🔴🔴🔴     | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Tactical Puzzle Solving |     🟠🟠      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| **Secondary**           |             |                        |                        |                        |                        |                        |                        |                        |
+| Multi-domain            |     🔴🔴🔴     |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
+| Minimal reflexes        |      ⚪      |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| Non-linear (Macro)      |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Non-location reaching   |     🔴🔴🔴     | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Single map              |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Solid Loss              |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Protecting NPCs         |     🟠🟠      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Score                   |             |           4            |           7            |           0            |           6            |           6            |           4            |           10           |
+| Engine                  |             |         Custom         |         Custom         |         Unreal         |         Unreal         |         Custom         |         Custom         |         Unreal         |
 
 ### Minimum Design Challenge
 
@@ -87,6 +89,14 @@ Where the baseline of zero is a modern DOOM variant.
 
 * The most straightforward and efficient core gameplay with few frills—supports the most practical and rich MVP
 * Some great DOOM II Wads are single map but unfortunately I've never liked those as much—DOOM shines the most when it has map progression
+
+### Dungeon Defenders
+
+* It's been a while since I thought of Dungeon Defenders as an inspiration
+* After putting this document together and thinking about defense again as possibility, Dungeon Defenders popped into mind
+* It's actually closer to the mark than any other inspiration
+* I've been partially deterred from Dungeon Defenders because it has a number of design decisions I don't care for but are not actually integral to its model (such as excessive loot and grinding)
+* One of the main differences I would consider would be to de-emphasize both tower placement and player combat in favor of environment interaction as a means of defense configuration
 
 ## Feature Notes
 

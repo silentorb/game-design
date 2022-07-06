@@ -12,15 +12,22 @@
 * Either:
   * The primary objectives are location-based or
   * I need to come up with a well-defined system for the significance of player location and motivation for the player to change location
+* One way or the other, I need to really formalize how important spatial objectives are to traditional FPS games to more accurately measure the cost of not having one
 
 ### Minimal Fighting
 
-* This is an essential feature and needs to be solidified
+* This has been a major stumbling block for years
+* This needs to be either solidified or cut
 
 ### Simulation Vs. Narrative
 
 * I've always gravitated toward simulation over narrative, but how do I make that work here?
   * Focusing on narrative would solve a lot of problems, though it's never been my style with game design
+
+### Defense
+
+* Determine whether a defense-focused game could solve many of my current design woes
+  * Keeping in mind that my closest inspirations are not defensive but offensive
 
 ## Gameplay
 
