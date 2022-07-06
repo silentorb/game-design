@@ -38,7 +38,19 @@
 | Non-linear (Macro)      | ⚪ | :skull_and_crossbones: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |
 | Non-location reaching  | 🔴🔴🔴 | :skull_and_crossbones: | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |
 | Single map | ⚪ | :skull_and_crossbones: | :heavy_check_mark: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Score |  | 4 | 6 | 0 | 6 | 6 | 4 |
+| Non-Trivial player death | ⚪ | :skull_and_crossbones: | :heavy_check_mark: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Protecting NPCs | 🟠🟠 | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Score |  | 4 | 7 | 0 | 6 | 6 | 4 |
+
+### Minimum Design Challenge
+
+🟠🟠🟠🟠
+
+### Maximum Design Challenge
+
+⚪⚪⚪⚪⚪⚪🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+Where the baseline of zero is a modern DOOM variant.
 
 ## Game Notes
 

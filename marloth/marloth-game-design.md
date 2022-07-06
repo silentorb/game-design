@@ -7,6 +7,21 @@
 * Start with what you know—you're favorite games that are closest to what you want to make—and draw a straight line from them to where you've been trying to go
 * The main goal is to establish a perspective to give a more objective and precise stock of what design goals are tripping me up the most and what may need to get cut for this project to be realistic
 
+### Player Location and Travel
+
+* Either:
+  * The primary objectives are location-based or
+  * I need to come up with a well-defined system for the significance of player location and motivation for the player to change location
+
+### Minimal Fighting
+
+* This is an essential feature and needs to be solidified
+
+### Simulation Vs. Narrative
+
+* I've always gravitated toward simulation over narrative, but how do I make that work here?
+  * Focusing on narrative would solve a lot of problems, though it's never been my style with game design
+
 ## Gameplay
 
 * Immersive Sim
