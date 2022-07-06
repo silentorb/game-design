@@ -22,7 +22,7 @@
 ## Contrast Matrix
 
 |                         |       Design Cost       |       Alan Wake        |       Dark Souls       |          Alice 2           |       Dishonored       |     The Witcher 3      |         DOOM II         |
-| ----------------------- | :--------------------: | :------------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| ----------------------- | :--------------------: | :------------------------: | :--------------------: | :--------------------: | :--------------------: | ----------------------- | ----------------------- |
 | **Essential**     |  |                        |                        |                            |                        |                        |                        |
 | Practical MVP           | 🟠🟠 | :heavy_check_mark: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
 | Minimal Fighting        | 🟠🟠 | :heavy_check_mark: | :skull_and_crossbones: |   :skull_and_crossbones:   |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |
@@ -38,17 +38,25 @@
 | Non-linear (Macro)      | ⚪ | :skull_and_crossbones: |   :heavy_check_mark:   |   :skull_and_crossbones:   | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |
 | Non-location reaching  | 🔴🔴🔴 | :skull_and_crossbones: | :skull_and_crossbones: |   :skull_and_crossbones:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |
 | Single map | ⚪ | :skull_and_crossbones: | :heavy_check_mark: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Score |  | 4 | 6 | 0 | 6 | 6 | 4 |
 
 ## Game Notes
 
 ### Alan Wake
 
-* Even though it fails so many of the criteria, it works so well as an interactive story that looking at the data this way makes me rethink whether or not I could make a game with stripped down mechanics and focus on setting and story
+* Even though it fails so much of the criteria, it works so well as an interactive story that looking at the data this way makes me rethink my views and consider whether maybe I could make a game with stripped down mechanics and a focus on setting and story
+* Alan Wake has a lot of fighting but I still put it as "minimal fighting" because:
+  * Many fights can be avoided and don't require killing
+  * Half of the game is travel and story
+    * At its heart Alan Wake is really a walking simulator
+* It's stretching things a bit to say this can support a practical MVP, but potentially an Alan Wake style game can still be useful as a demo
+  * Steam has a handful of critically acclaimed free-or-nearly-free games that last a half hour or less
+    * That's never been my cup of tea but I need to start seriously considering options like that or this project will never be practical
 
 ### Dark Souls
 
 * Mechanics-wise, this is the closest game to what I am trying to make
-* It's stretching things a little to say it can support a practical MVP, but the Souls-like formula has been taken so many directions I think the core essence has been well formalized and proven to be fairly minimal
+* It's stretching things a little to say this can support a practical MVP, but the Souls-like formula has been taken so many directions I think the core essence has been well formalized and proven to be fairly minimal
 
 ### Alice: Madness Returns
 
@@ -65,8 +73,12 @@
 
 ### DOOM II
 
-* The most straightforward and efficient core gameplay with few frills
+* The most straightforward and efficient core gameplay with few frills—supports the most practical and rich MVP
 * Some great DOOM II Wads are single map but unfortunately I've never liked those as much—DOOM shines the most when it has map progression
 
+## Feature Notes
 
+### Minimal Fighting
+
+* While games like DOOM II are all about combat, I'm toying with the idea of taking traditional combat mechanics and reskinning them with a more symbolic, non-combat domain such as spiritual warfare
 
