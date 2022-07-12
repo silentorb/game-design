@@ -2,28 +2,6 @@
 
 ## Design Tasks
 
-### Solidify Practical MVP
-
-* Start with what you know—you're favorite games that are closest to what you want to make—and draw a straight line from them to where you've been trying to go
-* The main goal is to establish a perspective to give a more objective and precise stock of what design goals are tripping me up the most and what may need to get cut for this project to be realistic
-
-### Player Location and Travel
-
-* Either:
-  * The primary objectives are location-based or
-  * I need to come up with a well-defined system for the significance of player location and motivation for the player to change location
-* One way or the other, I need to really formalize how important spatial objectives are to traditional FPS games to more accurately measure the cost of not having one
-
-### Minimal Fighting
-
-* This has been a major stumbling block for years
-* This needs to be either solidified or cut
-
-### Simulation Vs. Narrative
-
-* I've always gravitated toward simulation over narrative, but how do I make that work here?
-  * Focusing on narrative would solve a lot of problems, though it's never been my style with game design
-
 ### Defense
 
 * Determine whether a defense-focused game could solve many of my current design woes
@@ -41,33 +19,37 @@
 
 ## Requirements
 
-### Challenging Essentials
+### Design
 
-Essential requirements that do not play nicely with other requirements and make design more complicated and/or impossible.
-
-#### Design
-
-* Character Growth
-* Unique playthroughs
+* Third-person
 * Minimal randomness
 * Minimal combat
-* Strategy
-* Tactical puzzle solving
-* Third-person
 * Profound
-* Multi-domain (Immersive Sim)
 * Realtime yet does not put much weight on reflexes or quick decisions
 * Concrete and immersive (Minimally abstract)
-* Meaningful, significant spatiality
-  * Treating locations as characters with distinct personalities
-  * Locations being a reflection of their masters
 * Non-linear
 
-#### Technical
+### Technical
 
 * Feasible for a one-man team
 * Has a practical MVP
 * Fits within the constraints of the Unreal Engine
+
+## Features
+
+### MVP
+
+* Character Growth
+* Tactical puzzle solving
+* Strategy
+
+### Version 2
+
+* Multi-domain
+* Meaningful, significant spatiality
+  * Treating locations as characters with distinct personalities
+  * Locations being a reflection of their masters
+* Unique playthroughs
 
 ## Tensions
 
@@ -97,56 +79,60 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 ## Design Challenges
 
-### Integrating Unrelated Domains
+### MVP
 
-### Restricting Movement
-
-### Non-Spatial Domains
-
-### Realtime Discourages Decision Making
-
-### Limited UI
+#### Limited UI
 
 * UI is always one of the main bottlenecks with games
 * For a 3D game, abstract UI is extra challenging
 
-### Tamed Growth
+#### Tamed Growth
 
 * Growth is one of my favorite part of games
 * Growth is one of the most difficult aspects to tame
 * Most games balance growth by crippling it and making it almost an illusion
 
-### Tamed Randomness
-
-* I want variety of encounters, but randomness has always bitten me
-* Randomness is a two-edged sword
-
-### Scaling Player Count
-
-* I'd like this game to work both as single player and multiplayer
-
-### Non-Spatial Progress
+#### Non-Spatial Progress
 
 * Spatial progress—a term I just made up to represent victory being tied to the player getting to a particular location
 * Most of my Marloth games have been trying to avoid or minimize spatial progress—having a world where the player hangs out instead of tries to just get past—but that has never worked out great
 
-### Simple AI
+#### Scaling Player Count
+
+* I'd like this game to work both as single player and multiplayer
+
+#### Simple AI
 
 * AI can get complicated and require a lot of work and maintenance
   * I enjoy working on complex AI but for the sake of the project I need to keep the AI stupid simple, at least for MVP
 * How can the AI be kept simple?
 
-### Simple Physics
+#### Simple Physics
 
 * While basic spatial logic is easy, physics can quickly get messy and hard to tame
 * Physical mechanics need to be kept simple
 
-### Simple Foundation
+#### Simple Foundation
 
 * Is it is even possible for all of the above criteria to be met with a simple foundation?
   * If not, I've got to scale back my expectations
 
-## Design Question
+### Version 2
+
+#### Tamed Randomness
+
+* I want variety of encounters, but randomness has always bitten me
+* Randomness is a two-edged sword
+
+#### Integrating Unrelated Domains
+
+#### Restricting Movement
+
+#### Non-Spatial Domains
+
+#### Realtime Discourages Decision Making
+
+## Design Questions
 
 These are less inherent challenges and more unknowns that I have often struggled to answer.
 
@@ -155,8 +141,6 @@ These are less inherent challenges and more unknowns that I have often struggled
 * Can I say pseudo-fighting? (Treating non-combat domains like they are combat?)
 
 ### What is the Main Gameplay Loop?
-
-* 
 
 ### What are the player goals?
 
@@ -189,18 +173,16 @@ These are less inherent challenges and more unknowns that I have often struggled
 
 ## Player Role
 
-### Base Role
+### MVP
 
-* Provider (for family)
-
-### Professional Roles
-
-* Guide
 * Guardian
+
+### Later Versions
+
+* Provider (family)
+* Guide
 * Hunter
 * Artisan
 * Counselor
 * Merchant
 * Gatherer
-
-* 

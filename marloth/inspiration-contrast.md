@@ -22,35 +22,35 @@
 
 ## Contrast Matrix
 
-|                         | Design Cost |       Alan Wake        |       Dark Souls       |        Alice 2         |       Dishonored       |     The Witcher 3      |        DOOM II         |   Dungeon Defenders    |
-| ----------------------- | :---------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| **Essential**           |             |                        |                        |                        |                        |                        |                        |                        |
-| Practical MVP           |     🟠🟠      |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
-| **Primary**             |             |                        |                        |                        |                        |                        |                        | :skull_and_crossbones: |
-| Minimal Fighting        |     🟠🟠      |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
-| RPG Character Growth    |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Unique Playthroughs     |     🟠🟠      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Non-linear (Micro)      |      ⚪      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
-| Strategy                |     🔴🔴🔴     | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Tactical Puzzle Solving |     🟠🟠      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
-| **Secondary**           |             |                        |                        |                        |                        |                        |                        |                        |
-| Multi-domain            |     🔴🔴🔴     |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
-| Minimal reflexes        |      ⚪      |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
-| Non-linear (Macro)      |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Non-location reaching   |     🔴🔴🔴     | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Single map              |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
-| Solid Loss              |      ⚪      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Protecting NPCs         |     🟠🟠      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
-| Score                   |             |           4            |           7            |           0            |           6            |           6            |           4            |           10           |
-| Engine                  |             |         Custom         |         Custom         |         Unreal         |         Unreal         |         Custom         |         Custom         |         Unreal         |
+|                         |                 Design Cost                  |       Alan Wake        |       Dark Souls       |        Alice 2         |       Dishonored       |     The Witcher 3      |        DOOM II         |   Dungeon Defenders    |
+| ----------------------- | :------------------------------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| **Essential**           |                                              |                        |                        |                        |                        |                        |                        |                        |
+| Practical MVP           | :large_orange_diamond::large_orange_diamond: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| **Primary**             |                                              |                        |                        |                        |                        |                        |                        | :skull_and_crossbones: |
+| Minimal Fighting        | :large_orange_diamond::large_orange_diamond: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
+| RPG Character Growth    |                      ⚪                       | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Unique Playthroughs     | :large_orange_diamond::large_orange_diamond: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Non-linear (Micro)      |                      ⚪                       | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| Strategy                |                     🔴🔴🔴                      | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Tactical Puzzle Solving | :large_orange_diamond::large_orange_diamond: | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| **Secondary**           |                                              |                        |                        |                        |                        |                        |                        |                        |
+| Multi-domain            |                     🔴🔴🔴                      |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |
+| Minimal reflexes        |                      ⚪                       |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |   :heavy_check_mark:   |
+| Non-linear (Macro)      |                      ⚪                       | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Non-location reaching   |                     🔴🔴🔴                      | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Single map              |                      ⚪                       | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
+| Solid Loss              |                      ⚪                       | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Protecting NPCs         | :large_orange_diamond::large_orange_diamond: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
+| Score                   |                                              |           4            |           7            |           0            |           6            |           6            |           4            |           10           |
+| Engine                  |                                              |         Custom         |         Custom         |         Unreal         |         Unreal         |         Custom         |         Custom         |         Unreal         |
 
 ### Minimum Design Challenge
 
-🟠🟠🟠🟠
+:large_orange_diamond::large_orange_diamond:
 
 ### Maximum Design Challenge
 
-⚪⚪⚪⚪⚪⚪🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴
+⚪⚪⚪⚪⚪⚪:large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond:🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 Where the baseline of zero is a modern DOOM variant.
 
