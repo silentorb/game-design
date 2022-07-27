@@ -4,12 +4,12 @@
 | ----------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: |
 | Modular scenes                      |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Targets senior developers           | :heavy_check_mark: |                    |                    |                    |
-| Efficient for small teams           |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Open Source                         |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Partial Free Open Source            | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
 | No royalties                        |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
 | 3D lighting                         | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
 | Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
+| Gorgeous out-of-the-box             | :heavy_check_mark: |                    |                    |                    |
 | Agile development                   |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Elegant programming                 |                    | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
@@ -18,7 +18,7 @@
 | Text file assets                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Assets use industry standard format |                    | :heavy_check_mark: |                    |                    |
 | Editor can run on medium hardware   |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Minimal editor pauses               |        :x:         |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
+| Minimal editor pauses               |                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | Robust character animation          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Professional AI navigation system   | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
@@ -41,7 +41,7 @@
 | Elegant shader programming          | :heavy_check_mark: |                    |        :x:         |        :x:         |
 | Robust profiling tools              | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
-|                                     |                    |                    |                    |                    |
-| Total                               |         20         |         24         |         13         |         12         |
+| Documentation                       | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |
+| Total                               |         23         |         24         |         14         |         11         |
 
 \* Godot's use of nodes in place of a component system is not a strength.  The Unreal/Unity-style component method works well in most cases and poorly in a few, as opposed to Godot's system which rarely ever works well.
