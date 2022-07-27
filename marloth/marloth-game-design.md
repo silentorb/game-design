@@ -2,10 +2,7 @@
 
 ## Design Tasks
 
-### Defense
-
-* Determine whether a defense-focused game could solve many of my current design woes
-  * Keeping in mind that my closest inspirations are not defensive but offensive
+* I still haven't defined the player's primary activity
 
 ## Gameplay
 
@@ -23,7 +20,7 @@
 
 * Third-person
 * Minimal randomness
-* Minimal combat
+* Minimize combat where practical
 * Profound
 * Realtime yet does not put much weight on reflexes or quick decisions
 * Concrete and immersive (Minimally abstract)
@@ -101,12 +98,6 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 * I'd like this game to work both as single player and multiplayer
 
-#### Simple AI
-
-* AI can get complicated and require a lot of work and maintenance
-  * I enjoy working on complex AI but for the sake of the project I need to keep the AI stupid simple, at least for MVP
-* How can the AI be kept simple?
-
 #### Simple Physics
 
 * While basic spatial logic is easy, physics can quickly get messy and hard to tame
@@ -138,7 +129,55 @@ These are less inherent challenges and more unknowns that I have often struggled
 
 ### What is the Primary Activity?
 
-* Can I say pseudo-fighting? (Treating non-combat domains like they are combat?)
+#### Indirect Agency
+
+* I love the Peter Molyneux approach to indirect player agency, and that feels like a good fit for this game
+* However, that approach is also a two edged sword that has usually turned Molyneux games into novelties that are revered more for their ideas than their results
+  * The classic example is Dungeon Keeper: even though it is one of the ultimate "high concept" video games, it is really clunky and I've rarely enoyed actually *playing* it
+* If I did go with indirect player agency, how would that work?
+  * As is so often the case, I don't have a precedent for this in a third-person game—most games with indirect player agency are god games
+  * The closest precendent is again Dungeon Defenders...
+
+#### Tower Defense
+
+* Maybe I should bite the bullet and just make this into a tower defense game?
+* Would it be possible for the MVP to be tower defense and instead of focusing on that feature throughout later versions, keep the tower defense elements light and instead add additional domains in later installments?
+  * Have I ever seen a game successfully pivot like this?
+    * If not, maybe I can isolate exactly what the pitfall is and find a solution?
+    * The closest example I've seen, which is a major influence on my understanding of defense games, is WarCraft III
+      * WarCraft III started off as a traditional RTS game, but most of the appeal for me ended up being its custom maps with their various combinations and mixes of offense and defense
+      * Culminating in DotA leaving a larger legacy than the RTS aspects of WarCraft III
+
+#### WarCraft III
+
+* WarCraft III hero siege and AOS maps are the only good example I can think of defense being a versital foundation for many different player activities (and those custom maps are a very good example)
+  * I've often found it surprising that WarCraft III hero siege maps haven't been a bigger influence
+    * I have seen some games in the genre but none successful
+    * This is in contrast to WarCraft III's influence on RTS, tower defense, Moba, and arena battles
+
+#### Extracting Lessions from Hero Defense Maps
+
+* Note: I would use the term "Hero Siege" here except now when I hear that phrase all I think about is that stupid game by the same name
+  * that game actually started out as sort of a WarCraft III defense game and switched to being a Diablo II Rogue-lite
+  * Hey, I guess that is another example of a game that successfully pivoted, though that wasn't so much an extension (adding new domains alongside the MVP domain) as much as a massive retooling of the core gameplay
+    * In other words, they didn't simply adjust course: they backed up
+* Players interact with the WarCraft III hero defense maps in the following ways:
+  * Moving their hero around and having their hero fight
+    * This worked particularly well because the hero would have partial AI and would engage in battle on their own
+    * It was nice how the player could give micro-managing controls when they wanted to but by default they could rely on general automation
+      * This is similar to the design I've always admired so much about Magic the Gathering, where each turn has so many phases that are normally implicitly skipped but are there when players need them
+  * Placing towers
+    * Mostly this was in tower-defense-focused maps, but I think there were one or more defense maps that sported tower placement as a supporting feature
+  * Hiring troops
+    * This wasn't very common, but some hero defense maps had this feature
+    * It helped mix things up and was easy to implement since it was the default mechanic for WarCraft III, but fit as well in game
+      * At least not without a sophisticated UI to manage the troops
+      * Off the top of my head I can't think of a first/third person 3D game that pulled off managing NPCs well—I feel like all of my experiences of this were unpleasant
+  * Upgrading defenses
+    * This is fairly common in hero defense maps
+    * This usually involved uprading towers and upgrading barracks
+      * The barracks would be periodically spawning new defensive troops
+      * The towers would usually be built into the map and not player placed
 
 ### What is the Main Gameplay Loop?
 
