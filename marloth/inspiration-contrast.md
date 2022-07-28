@@ -27,7 +27,7 @@
 | ----------------------- | :------------------------------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | **Essential**           |                                              |                        |                        |                        |                        |                        |                        |                        |                        |
 | Practical MVP           | :large_orange_diamond::large_orange_diamond: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |
-| **Primary**             |                                              |                        |                        |                        |                        |                        |                        | :skull_and_crossbones: |                        |
+| **Primary**             |                                              |                        |                        |                        |                        |                        |                        |                        |                        |
 | Minimal Fighting        | :large_orange_diamond::large_orange_diamond: |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: | :skull_and_crossbones: |   :heavy_check_mark:   |
 | RPG Character Growth    |                      ⚪                       | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   |   :heavy_check_mark:   | :skull_and_crossbones: |   :heavy_check_mark:   | :skull_and_crossbones: |
 | Unique Playthroughs     | :large_orange_diamond::large_orange_diamond: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: | :skull_and_crossbones: |
@@ -52,7 +52,7 @@
 
 ### Maximum Design Challenge
 
-⚪⚪⚪⚪⚪⚪:large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond:🔴🔴🔴🔴🔴🔴🔴🔴🔴
+⚪⚪⚪⚪⚪⚪:large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond:🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 Where the baseline of zero is a modern DOOM variant.
 
