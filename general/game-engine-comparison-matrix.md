@@ -66,7 +66,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | **Totals**                          |         4          |         6          |         2          |         3          |
 |                                     |                    |                    |                    |                    |
-| **Totals**                          |         22         |         23         |         12         |         9          |
+| **Aggregate Totals**                |         22         |         23         |         12         |         9          |
 
 ## Notes
 
