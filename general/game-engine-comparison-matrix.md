@@ -50,10 +50,10 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Robust physics                      | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Robust network support              | :heavy_check_mark: |                    |        :x:         |                    |
-| Robust AI navigation system         | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Robust AI navigation system         | :heavy_check_mark: |                    |                    |                    |
 | 2D games                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
-| **Totals**                          |         8          |         4          |         -1         |         0          |
+| **Totals**                          |         8          |         3          |         -1         |         0          |
 |                                     |                    |                    |                    |                    |
 | **Reliability and Usability**       |                    |                    |                    |                    |
 | Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
@@ -66,7 +66,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | **Totals**                          |         4          |         6          |         2          |         3          |
 |                                     |                    |                    |                    |                    |
-| **Totals**                          |         22         |         24         |         12         |         9          |
+| **Totals**                          |         22         |         23         |         12         |         9          |
 
 ## Notes
 
@@ -96,7 +96,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
   * The majority of C++ code needs to be parsed by UBT, which only supports a narrow subset of C++ features and forces some unprofessional programming practices
   * Even though C++ is Unreal's foundation, many of Unreal's systems (Such as it's UI, AI, and skeletal animation) treat C++ as a second-rate citizen (in favor of Blueprints)
   * In practice, most Unreal games need to split their codebase between C++ and Blueprints, which generally means increased shuffling of functionality back and forth between the two domains and increased code rewriting
-  * The Unreal codebase has many legacy design decisions from the 90s, such as
+  * The Unreal codebase has many legacy design decisions from the 90s, such as:
     * Requiring developers to prefix classes with letter symbols
     * A [non-standard coordinate system](https://www.techarthub.com/wp-content/uploads/coordinate-comparison-chart-full.jpg)
       * Which is non-standard because it frankly doesn't make a lot of sense
@@ -134,9 +134,9 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 
 #### Unity
 
-* Unity has both Probuilder and Realtime CSG, both of which are support both agile prototyping and optimized runtime
+* Unity has both Probuilder and Realtime CSG, both of which support both agile prototyping and optimized runtime
 * Each of these tools supports much more organic level geometry than simply using static meshes
-* Using either of these tools makes it easier to make massive changes to finished levels without extensive rework
+* Using either tools make it easier to perform massive changes to finished levels without extensive rework
 
 ### Robust profiling tools
 
@@ -150,4 +150,4 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 
 * Unreal Engine is a massive installation
 * The Epic Games Store is not a great tool for downloading software, particularly large downloads
-* The Unreal Engine installation process is unusually error prone for a software application
+* The Unreal Engine installation process is unusually error prone
