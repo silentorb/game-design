@@ -24,13 +24,13 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Gorgeous out-of-the-box             | :heavy_check_mark: |                    |                    |                    |
 | Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
 | Lots of free content                | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Robust character animation          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Advanced character animation        | :heavy_check_mark: |                    |        :x:         |                    |
 | Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Professional UI scaling             | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Custom audio DSP                    | :heavy_check_mark: |                    |                    |                    |
 | Elegant shader programming          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
-| **Totals**                          |         9          |         6          |         -1         |         1          |
+| **Totals**                          |         9          |         5          |         -2         |         1          |
 |                                     |                    |                    |                    |                    |
 | **Workflow**                        |                    |                    |                    |                    |
 | Modular scenes                      |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    |
@@ -66,7 +66,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | **Totals**                          |         4          |         6          |         2          |         3          |
 |                                     |                    |                    |                    |                    |
-| **Aggregate Totals**                |         22         |         23         |         12         |         9          |
+| **Aggregate Totals**                |         22         |         22         |         11         |         9          |
 
 ## Notes
 
