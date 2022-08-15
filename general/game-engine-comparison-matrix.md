@@ -92,9 +92,10 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
   * Extremely inefficient C++ compile times
     * Beefy hardware can help with this but only to a point, and it shouldn't be needed
     * Contrary to what many Unreal developers say, the issue is not that the Unreal codebase is large—the problem is with UBT
-      * Incremental C++ builds are a solved problem—Unreal bypasses so much of the industry standard tooling in favor of their incomplete custom tooling that doesn't have proper incremental build support
+      * Incremental C++ builds are a solved problem—Unreal bypasses much industry standard tooling in favor of their incomplete custom tooling that doesn't have proper incremental build support
   * The majority of C++ code needs to be parsed by UBT, which only supports a narrow subset of C++ features and forces some unprofessional programming practices
   * Even though C++ is Unreal's foundation, many of Unreal's systems (Such as it's UI, AI, and skeletal animation) treat C++ as a second-rate citizen (in favor of Blueprints)
+  * For an experienced developer, blueprints take more time to create and maintain than code, are more limited in their ability to abstract common patterns, and are more limited in terms of refactoring, debugging, and profiling
   * In practice, most Unreal games need to split their codebase between C++ and Blueprints, which generally means increased shuffling of functionality back and forth between the two domains and increased code rewriting
   * The Unreal codebase has many legacy design decisions from the 90s, such as:
     * Requiring developers to prefix classes with letter symbols
@@ -105,11 +106,11 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 
 ### Code separate from assets
 
-* While there are cases where it can be convenient to treat some code as game assets, treating the entire codebase as a collection of game assets sacrifices many professional programming features and introduces additional workflow challenges and workflow performance challenges
+* While there are cases where it can be convenient to treat some code as game assets, Unity's treatment of the entire codebase as a collection of game assets sacrifices many professional programming features and introduces additional workflow challenges and workflow performance challenges
 
 ### Integrated 3D game framework
 
-* A similar framework can be built in other engines, but out-of-the-box, the Unreal game systems are so polished and mature (particular their character and camera rigs), it is difficult to recreate that same level of quality elsewhere
+* A similar framework can be built in other engines, but out-of-the-box, the Unreal game systems are so polished and mature (particularly their character and camera rigs), it is difficult to recreate that same level of quality elsewhere
 * Likewise, DOOM's gameplay systems have an extremely polished and definitive feel that has been an industry reference point for decades
 
 ### Minimal editor pauses
