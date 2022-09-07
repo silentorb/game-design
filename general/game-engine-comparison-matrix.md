@@ -40,9 +40,9 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Minimal editor pauses               |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Easily customizable editor          |                    |                    | :heavy_check_mark: |                    |
 | Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
-| Robust level creation               |        :x:         | :heavy_check_mark: |        :x:         |                    |
+| Robust level creation               | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
-| **Totals**                          |         -1         |         6          |         5          |         2          |
+| **Totals**                          |         1          |         6          |         5          |         2          |
 |                                     |                    |                    |                    |                    |
 | **General Features**                |                    |                    |                    |                    |
 | Integrated 3D game framework        | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: |
@@ -64,9 +64,11 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Up front technical costs            | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | High performance scripting          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
-| **Totals**                          |         4          |         6          |         2          |         3          |
+| Minimal bugs                        | :heavy_check_mark: |                    |                    |                    |
+| Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: |
+| **Totals**                          |         6          |         6          |         1          |         4          |
 |                                     |                    |                    |                    |                    |
-| **Aggregate Totals**                |         22         |         22         |         11         |         9          |
+| **Aggregate Totals**                |         26         |         22         |         10         |         10         |
 
 ## Notes
 
@@ -132,12 +134,14 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 * BSP could be used for runtime but it is not optimized for that
 * Static meshes are great for detail but don't lend themselves well to seamless, organic architecture
 * Unreal recently added integrated static mesh editing tools, but at least for now they have very limited texturing features which makes them effectively useless for serious level creation
+* With Unreal 5.0 the engine is transitioning toward procedurally generating static meshes, which is a game changer and head-and-shoulders above any competition.  However, outside of the [Lyra sample project](https://docs.unrealengine.com/5.0/en-US/lyra-geometry-tools-in-unreal-engine/) there is not much documentation or adoption for this approach yet.
 
 #### Unity
 
-* Unity has both Probuilder and Realtime CSG, both of which support both agile prototyping and optimized runtime
+* Unity has both Probuilder and Realtime CSG, both of which support agile prototyping and optimized runtime
 * Each of these tools supports much more organic level geometry than simply using static meshes
 * Using either tools make it easier to perform massive changes to finished levels without extensive rework
+* Realtime CSG is not officially supported by Unity and it is tricky for its maintainers to keep it fully compatible with all major version of Unity
 
 ### Robust profiling tools
 
