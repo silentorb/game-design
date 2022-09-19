@@ -4,13 +4,9 @@ By Christopher W. Johnson
 
 ## Background
 
-The Marloth game has bounced around between several different game engines.  Below is a timeline of which engines were used and roughly when.
+The Marloth game I've been developing has bounced around between many different game engines.  Below is a timeline of which engines were used and roughly when.
 
-An important piece of context for this timeline: the bar for game tech is far lower than it is for the rest of the software industry.  Most senior developers who work in other software domains such as web are horrified when they see how things are done in the game industry.
-
-Dedicated game developers become numb to the friction.  It's hard to maintain that numbness when straddling industries and being regularly reminded how much better things can be.
-
-One other note, this is not a comprehensive timeline of my game development experience.  I started game programming around 1991, mostly creating my own game engines until 2011, and over the course of this timeline I worked on many other games and used additional game engines not listed here.
+This is not a comprehensive timeline of my game development experience.  I started game programming around 1991, mostly creating my own game engines until 2011, and over the course of this timeline I worked on many other games and used additional game engines not listed here (such as Phaser and HaxeFlixel).
 
 ## The Timeline
 
@@ -32,4 +28,4 @@ One other note, this is not a comprehensive timeline of my game development expe
 
 ## Epilogue
 
-In retrospect, I do wish I had stuck with either Unreal or Unity and shipped a game by now, but that is a small regret.  The lessons learned are nearly worth the opportunity cost.
+In retrospect, I do wish I had stuck with either Unreal or Unity earlier and shipped a game by now, but that is a small regret.  The lessons learned are nearly worth the opportunity cost.
