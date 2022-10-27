@@ -37,12 +37,12 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Assets use industry standard format |                    | :heavy_check_mark: |                    |                    |
 | Fast editor loading                 |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
-| Minimal editor pauses               |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Minimal editor pauses               | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Easily customizable editor          |                    |                    | :heavy_check_mark: |                    |
 | Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Robust level creation               | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
-| **Totals**                          |         1          |         6          |         5          |         2          |
+| **Totals**                          |         2          |         6          |         5          |         2          |
 |                                     |                    |                    |                    |                    |
 | **General Features**                |                    |                    |                    |                    |
 | Integrated 3D game framework        | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: |
@@ -50,7 +50,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | Robust physics                      | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Robust network support              | :heavy_check_mark: |                    |        :x:         |                    |
-| Robust AI navigation system         | :heavy_check_mark: |                    |                    |                    |
+| Robust AI navigation                | :heavy_check_mark: |                    |                    |                    |
 | 2D games                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | **Totals**                          |         8          |         3          |         -1         |         0          |
@@ -68,7 +68,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: |
 | **Totals**                          |         6          |         6          |         1          |         4          |
 |                                     |                    |                    |                    |                    |
-| **Aggregate Totals**                |         26         |         22         |         10         |         10         |
+| **Aggregate Totals**                |         27         |         22         |         10         |         10         |
 
 ## Notes
 
@@ -85,8 +85,9 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 ### Targets Senior Developers
 
 * The foundation of Unity's architecture was overly targeted toward amateur programmers
-  * In other words, Unity could have been designed out of the gate with an advanced lower level and an easier higher level, but instead it had a single easy level, resulting in the original Unity being a toy instead of a serious developer tool
-* Unity has been gradually remedying this over the past decade but there is still a lot of legacy residue
+  * Unity could have been designed out of the gate with an advanced lower level and an easier higher level, but instead it had a single easy level, resulting in the original Unity being a toy instead of a serious developer tool
+    * This initial architecture direction probably did not save time in reaching market, but instead would have led to a codebase that tripped over itself
+* Unity has been gradually remedying this amateur foundation over the past decade but there is still a lot of legacy residue
 
 ### Elegant Programming
 
@@ -134,7 +135,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 * BSP could be used for runtime but it is not optimized for that
 * Static meshes are great for detail but don't lend themselves well to seamless, organic architecture
 * Unreal recently added integrated static mesh editing tools, but at least for now they have very limited texturing features which makes them effectively useless for serious level creation
-* With Unreal 5.0 the engine is transitioning toward procedurally generating static meshes, which is a game changer and head-and-shoulders above any competition.  However, outside of the [Lyra sample project](https://docs.unrealengine.com/5.0/en-US/lyra-geometry-tools-in-unreal-engine/) there is not much documentation or adoption for this approach yet.
+* With Unreal 5.0 the engine is transitioning toward procedurally generating static meshes, which is a game changer and head-and-shoulders above any competition.  However, outside of the [Lyra sample project](https://docs.unrealengine.com/5.0/en-US/lyra-geometry-tools-in-unreal-engine/) there is not much documentation or adoption for this approach yet.
 
 #### Unity
 

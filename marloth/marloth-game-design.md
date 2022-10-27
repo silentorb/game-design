@@ -6,50 +6,36 @@
 
 ## Gameplay
 
-* Immersive Sim
-  * With the following differences:
-    * Random scenario adjustments
-    * Shorter playthroughs
-* Indirect Agency
-  * Dungeon Keeper without the micromanagement
-
-* Survival Horror
-* Role Playing Game
-* Open World
+1. Survival Horror
+2. Roguelike
+3. Role Playing Game
+4. Immersive Sim
 
 ## Requirements
 
 ### Design
 
-* Third-person
-* Minimal randomness
-* Minimize combat where practical
-* Profound
+* First-person
+* Procedurally generated world
+* Minimal combat
 * Realtime yet does not put much weight on reflexes or quick decisions
 * Concrete and immersive (Minimally abstract)
-* Non-linear
 
 ### Technical
 
 * Feasible for a one-man team
 * Has a practical MVP
-* Fits within the constraints of the Unreal Engine
+* Fits within the constraints of Unreal Engine
 
 ## Features
 
 ### MVP
 
-* Character Growth
 * Tactical puzzle solving
-* Strategy
 
 ### Version 2
 
-* Multi-domain
-* Meaningful, significant spatiality
-  * Treating locations as characters with distinct personalities
-  * Locations being a reflection of their masters
-* Unique playthroughs
+* Character growth
 
 ## Tensions
 
@@ -69,33 +55,12 @@ Ties conflicting requirements together
 
 Essential requirements that don't complicate the design, don't get in the way of other requirements, and don't make the game more difficult to create.
 
-* Hand-crafted map
 * Single difficulty
 * Short playthroughs
-
-### Nice to Have
-
-* Single map
 
 ## Design Challenges
 
 ### MVP
-
-#### Indirect Agency
-
-* I want to push the boundaries and see how far I can go with minimizing the player's direct involvement with the world, which could get dangerously close to not engaging the player
-* Other games with Indirect Agency have always backed up toward some micromanagement, and I don't know why
-
-#### Limited UI
-
-* UI is always one of the main bottlenecks with games
-* For a 3D game, abstract UI is extra challenging
-
-#### Tamed Growth
-
-* Growth is one of my favorite part of games
-* Growth is one of the most difficult aspects to tame
-* Most games balance growth by crippling it and making it almost an illusion
 
 #### Non-Spatial Progress
 
@@ -106,11 +71,6 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 * I'd like this game to work both as single player and multiplayer
 
-#### Simple Physics
-
-* While basic spatial logic is easy, physics can quickly get messy and hard to tame
-* Physical mechanics need to be kept simple
-
 #### Simple Foundation
 
 * Is it is even possible for all of the above criteria to be met with a simple foundation?
@@ -118,30 +78,77 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 ### Version 2
 
-#### Tamed Randomness
-
-* I want variety of encounters, but randomness has always bitten me
-* Randomness is a two-edged sword
-
-#### Integrating Unrelated Domains
-
 #### Restricting Movement
-
-#### Non-Spatial Domains
-
-#### Realtime Discourages Decision Making
 
 ## Design Questions
 
 These are less inherent challenges and more unknowns that I have often struggled to answer.
 
-### What is the Primary Activity?
+### What are the Primary Activities?
+
+#### Summary
+
+1. Navigation
+2. Exploration
+3. Avoiding dangers
+4. Gathering resources
+
+#### Navigation
+
+* At first glance, navigating around a 3D world sounds boring
+* Yet that is one of the primary actions of a first person shooter, and when I think about it, if the environment is interesting then I do enjoy walking around it
+* This is in part how walking simulators have become a viable genre
+* Some games, particularly third-person action games, make navigation very involved and elaborate
+* I want to keep navigation simple, but squeeze every ounce of significance from it
+* There is a danger that navigation as a primary activity may prove boring for me and I'll lose interest, but I think this is going to work
+* I've been fighting against this for years, and yet at the end of the day one of my biggest drives is to make a cool 3D world and how I love seeing 3D worlds from different angles, why wouldn't moving around that world be important?
+
+#### Exploration
+
+* Exploration isn't normally something I look for in a game
+* Yet I've avoided hand crafted maps and repeatedly gravitated toward procedurally generated maps
+* Occasionally in a game I will get into exploration
+  * Playing Minecraft is probably when I've enjoyed exploration the most
+    * It would be worth listing other games that piqued my exploration interest
+
+#### Avoiding dangers
+
+* Out of all of the primary activities, this is the one that immediately interests me the most
+* I love engaging enemies in non-lethal, indirect means, and I feel like action games focus too much on permanently destroying threats instead of surviving them
+* Indirect solutions also lend themselves better to tactics and strategy
+  * When a game is about promptly killing everything in sight, threats become short term problems with little long-term impact beyond the question of how much player ammo and health they drained
+
+#### Gathering Resources
+
+* This is something I never look for in games and rarely enjoy—I'm not a hunter/gatherer
+* However, resource gathering keeps coming back as a perfect ingredient for rounding out this recipe
+* Once again, maybe I can isolate the games with resource gathering which I enjoyed the most, and see if there are ways I can make the resource gathering more fun for someone like me
 
 ### What is the Main Gameplay Loop?
+
+1. Wake up
+2. Explore the world
+3. Gather resources
+4. Fight monsters
+5. Return home to sleep
 
 ### What are the player goals?
 
 ### What are the Loss Conditions?
+
+## Game Language
+
+### As a first person 3D game, what are the most defining, inherent aspects of the game?
+
+First person 3D games are fundamentally concrete, so all of these aspects are concrete.
+
+1. Player location
+2. Player facing
+3. What is and isn't visible to the player
+4. Spatial relationship between the player and other objects
+5. Light and darkness (Relates to the previous two items)
+
+Features such as player health are more abstract and are injected into first person games.  (That is partially why health is usually displayed in an abstract HUD instead of within the 3D environment.)
 
 ## Design Solutions
 
@@ -164,22 +171,24 @@ These are less inherent challenges and more unknowns that I have often struggled
 
 ### Experience and Level System
 
-* I've been trying to avoid traditional XP/level systems since I started making Marloth games but there's a reason they are so prevalent in RPGs: they just work.
-* Experience provides a universal currency for integrating intrinsic character growth
-* Levels provide a clear path for applying experience
+* ~~I've been trying to avoid traditional XP/level systems since I started making Marloth games but there's a reason they are so prevalent in RPGs: they just work.~~
+* ~~Experience provides a universal currency for integrating intrinsic character growth~~
+* ~~Levels provide a clear path for applying experience~~
 
-## Player Role
+A traditional level system made more sense with fixed worlds and is less needed with a Roguelike.  Levels are actually uncommon in action roguelikes.
 
-### MVP
+## ~~Player Role~~
 
-* Guardian
+### ~~MVP~~
 
-### Later Versions
+* ~~Guardian~~
 
-* Provider (family)
-* Guide
-* Hunter
-* Artisan
-* Counselor
-* Merchant
-* Gatherer
+### ~~Later Versions~~
+
+* ~~Provider (family)~~
+* ~~Guide~~
+* ~~Hunter~~
+* ~~Artisan~~
+* ~~Counselor~~
+* ~~Merchant~~
+* ~~Gatherer~~
