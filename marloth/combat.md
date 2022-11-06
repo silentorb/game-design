@@ -97,7 +97,7 @@ Features such as player health are more abstract and are injected into first per
 #### Elimination as a challenge
 
 * The act of elimination can itself be a part of the core game challenge
-* Avoiding enemies can also be a challenge, but it is a *different* challenge
+* Avoiding enemies can also be a challenge, but it is a *different* challenge
 
 #### Accomplishment
 
@@ -123,6 +123,11 @@ Features such as player health are more abstract and are injected into first per
     * Respawning threats (Left 4 Dead 2)
 * With Marloth's current direction, that cycle still exists but more rarely—It's not until the player returns home that the player can rest easy
 
+#### Crowd Control
+
+* Elimination helps keep threat quantity in check and minimize threat snowballing
+  * This is very circumstantial and depends on other aspects of the game design
+
 #### UX
 
 * Elimination has a very clear boolean visual and cognitive model: Threats are either active or disabled
@@ -134,6 +139,44 @@ Features such as player health are more abstract and are injected into first per
     * Here the nebulous state is temporary and usually promptly resolved, as opposed to passive combat where any similar states may never have a clear resolution
     * Conversely, players get annoyed when engagements against bullet sponges drag on and it is too unclear how much further damage is required to end the battle
 
+### Weighing the Cost
+
+#### Deadlier enemies
+
+* So far Marloth's survival aspect means enemies don't need to be deadly, they just need to add to the continual loss of player resources
+
+* It can add to the horror for enemies to feel really dangerous, though horror is not priority for Marloth, it's a secondary element
+
+  * Besides, deadlier enemies don't feel as scary if they can be quickly killed
+
+
+#### Elimination as a challenge
+
+  * Avoiding enemies is a sufficient alternative challenge
+
+#### Accomplishment
+
+* This may be a real issue and I may need to periodically take inventory and make sure the gameplay has enough alternative micro-achievements
+  * Gathering resources is one of the alternatives
+    * It's not my favorite alternative but it is still something
+    * It may be good to put extra detail into gathering resources and making the audio and visuals feel cool and flashy, like something significant has just been achieved
+  * Sleeping is another alternative
+    * Particularly sleeping and gaining health from it
+    * Since the player can sleep early, it may be worth visually/aurally differentiating a rushed sleep from a more significant sleep
+  * Maybe there's some small way to add fanfare for bypassing an enemy?
+
+#### Security
+
+* More than the other elimination benefits, this one is a double-edged sword and not having it shouldn't be a problem
+
+#### Crowd Control
+
+* So far Marloth's threat design is relying heavily on stationary enemies and even distributions across maps, greatly helping limit threat congestion
+
+#### UX
+
+* I don't know of any real substitute for enemy death UX, but it's a minor point and probably not essential
+
 ## Surrounded by Enemies
 
 * Possibly a part of the solution for this will be to gauge timing, where enemies are not always threats
@@ -142,6 +185,13 @@ Features such as player health are more abstract and are injected into first per
 * In one sense inversely but in another sense still along the same lines of the previous item: one possibility is to have enemies that are not much of a threat by themselves, but become a threat when composed together
   * In a way this looks like an exponential curve, except it can still be logarithmic in that the danger baseline is less than 1 and then two enemies could compose together to form a danger of 1.5.
   * In other words, if serious danger requires composition, composition becomes the primary channel for danger, and may make it easier to gate and control how the element integration translates to threats
+* DOOM is a great example of good threat quantity scaling
+  * Crowds of monsters block each other's line of attack where only the front line of monsters have a clean shot of the player
+  * Infighting greatly helps the player survive while surrounded and the chance of infighting scales with monster quantity
+    * As long as a crowd is comprised of different base monster types, which gives map designers an extra knob to control when infighting can happen
+
+  * Conversely, arch-vile and pain elemental quantities do not scale logarithmically, making crowds of them a choice for map makers when they want to significantly ramp up the difficulty
+
 
 ### Notes
 
