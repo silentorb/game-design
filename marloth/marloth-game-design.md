@@ -146,7 +146,6 @@ First person 3D games are fundamentally concrete, so all of these aspects are co
 2. Player facing
 3. What is and isn't visible to the player
 4. Spatial relationship between the player and other objects
-5. Light and darkness (Relates to the previous two items)
 
 Features such as player health are more abstract and are injected into first person games.  (That is partially why health is usually displayed in an abstract HUD instead of within the 3D environment.)
 
