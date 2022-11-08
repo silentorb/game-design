@@ -1,4 +1,4 @@
-# Marloth Combat
+# Marloth Combat Design
 
 ## Goals
 
@@ -11,9 +11,18 @@
 
 ## Rewarding Decisions
 
+### Tactics
+
 * Most of this will boil down to tactics
 * Tactics is not my favorite type of gameplay, but I can still get into it
 * I prefer strategy, but that is so much harder to [inject into a game like this](#strategy)
+
+### Time to plan
+
+* I'm not looking for frenetic gameplay
+* Ideally, I would like to have the best of both worlds between turn-based and real time
+* Giving the player that much time to think is not possible—compromises have to be made
+* When push comes to shove, the gameplay will need to fallback to frenetic gameplay, but that should be a last resort
 
 ## Spatial Foundation
 
@@ -48,7 +57,6 @@ Features such as player health are more abstract and are injected into first per
   * Turning around is a secondary form of changing what the player sees
     * If a player could only do one of two things, move around or turn around, moving around would provide a much wider variety of sights to see
       * Unless the entire traversable area of the map was a single room
-  * 
 
 ## Passive Combat
 
