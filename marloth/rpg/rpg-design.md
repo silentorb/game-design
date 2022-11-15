@@ -70,7 +70,7 @@ How do players acquire disadvantages?
     * A player could consistently only choose certain disadvantages, which isn't terrible but feels off
       * Players have less incentive to explore disadvantages than they do advantages
     * Rogue-lite disadvantage selection does not have the fun factor that selecting disadvantages did with GURPS because it was all before the gameplay started and didn't feel as life and death as choosing a disadvantage while in the middle of trying to survive
-  * I want at least some of the disadvantages to represent vices, and it's wrong to have players actively choosing their vices
+  * I want at least some of the disadvantages to represent vices, and it's not good to require players to actively choose vices
 * It would probably work better at both a thematic and gameplay level for disadvantage acquisition to be influence by player actions
   * For example, having a creature type that, when visible on screen long enough over time, would give the player a disadvantage relating to that creature type
 * I like the idea of having numeric disadvantage accumulators during an outing, and then when the player sleeps those accumulators are applied and translated to the acquisition of actual disadvantages which are presented to the player via a UI screen
@@ -80,3 +80,17 @@ How do players acquire disadvantages?
 
 Here is a list of primary variations and cross options I can think of for this system:
 
+## Application
+
+### Summary
+
+Currently I'm leaning to the following system:
+
+* Hybrid class and upgrade-based character system
+  * Class influences upgrade availability and disadvantage acquisition
+* No character levels
+* Minimal character planning
+* Most upgrades have advantages and disadvantages
+  * Some upgrades are found in the levels
+    * The player can choose whether to apply them or leave them
+  * Some disadvantage-focused upgrades are indirectly acquired during exploration and applied when sleeping

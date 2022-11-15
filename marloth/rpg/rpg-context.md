@@ -55,9 +55,9 @@ There are three main types of class systems in RPGs:
   * Path of Exile
   * Dark Souls
 
-#### Item-Based
+#### Upgrade-Based
 
-* Classes are simply starting packages with a collection of starting items (abilities)
+* Classes are simply starting packages with a collection of starting items (abilities/upgrades)
 * Usually only appears in Roguelites and within ability systems that have no foundational domains or themes
   * Some abilities may share a common theme but that is optional per ability
 * Usually games with this approach have some classes with unique abilities and some classes with common abilities
@@ -81,7 +81,7 @@ There are three main types of class systems in RPGs:
 
 #### Rating
 
-|                   | Class                                | Domain                               | Item                                 |
+|                   | Class                                | Domain                               | Upgrade                              |
 | ----------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 | Thematic          | :green_book::green_book::green_book: | :orange_book::orange_book:           | :closed_book:                        |
 | Planning          | :green_book::green_book::green_book: | :orange_book::orange_book:           | :closed_book:                        |
@@ -148,3 +148,29 @@ Why do I like skill trees so much?  I would expect someone like me to not like t
 * Focusing on intrinsic abilities should also add more opportunity for spiritual elements
 * Focusing on intrinsic abilities should also leave more room for a multi-domain world, where enemies
 
+## Character Planning
+
+* I love planning in games but this game can't have everything and planning doesn't fit well with the rest of the elements
+* Later versions could have supplemental features to better support planning, such as report views visualize future possibilities
+
+
+
+## Ability Attachments
+
+### Motivation
+
+* The primary motivation is to have different triggers on abilities
+
+* I like the idea of each upgrade having a type and zero or more attached modifiers
+* However, that attachment system could quickly become too complicated
+* There are probably a few different ways I could constrain the system to make it simpler
+
+#### Non-Orthogonal
+
+One problem is that base abilities and attachments are non-orthogonal.
+
+Possible solutions:
+
+1. Any ability can be a root or an attachment, they just work differently in each position
+
+2. Root abilities have random attachments and when a player acquires two root abilities of the same type they merge into one ability with their attachments merged as well

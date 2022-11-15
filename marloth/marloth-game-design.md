@@ -60,8 +60,6 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 ## Design Challenges
 
-### MVP
-
 #### Non-Spatial Progress
 
 * Spatial progress—a term I just made up to represent victory being tied to the player getting to a particular location
@@ -75,10 +73,6 @@ Essential requirements that don't complicate the design, don't get in the way of
 
 * Is it is even possible for all of the above criteria to be met with a simple foundation?
   * If not, I've got to scale back my expectations
-
-### Version 2
-
-#### Restricting Movement
 
 ## Design Questions
 
