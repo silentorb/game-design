@@ -27,23 +27,22 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Advanced character animation        | :heavy_check_mark: |                    |        :x:         |                    |                    |
 | Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Professional UI scaling             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Custom audio DSP                    | :heavy_check_mark: |                    |                    |                    |                    |
 | Elegant shader programming          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
 | Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| **Totals**                          |         9          |         5          |         -2         |         1          |         2          |
+| **Totals**                          |         8          |         5          |         -2         |         1          |         2          |
 |                                     |                    |                    |                    |                    |                    |
 | **Workflow**                        |                    |                    |                    |                    |                    |
 | Modular scenes                      |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Assets use industry standard format |                    | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Fast editor loading                 |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Minimal editor pauses               | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Minimal editor pauses               |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Easily customizable editor          |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
 | Robust level creation               | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
 | Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
-| **Totals**                          |         3          |         7          |         6          |         1          |         6          |
+| **Totals**                          |         2          |         7          |         6          |         1          |         6          |
 |                                     |                    |                    |                    |                    |                    |
 | **General Features**                |                    |                    |                    |                    |                    |
 | Integrated 3D game framework        | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
@@ -62,15 +61,14 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Easy editor installation            |        :x:         |                    | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | Editor can run on medium hardware   |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Good documentation                  | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |                    |
-| Up front technical costs            | :heavy_check_mark: |                    |                    | :heavy_check_mark: |                    |
 | High performance scripting          | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |        :x:         |
 | Minimal bugs                        | :heavy_check_mark: |                    |                    |                    |                    |
 | Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | Smooth performance                  | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |                    |
-| **Totals**                          |         6          |         6          |         1          |         4          |         1          |
+| **Totals**                          |         6          |         7          |         0          |         4          |         1          |
 |                                     |                    |                    |                    |                    |                    |
-| **Aggregate Totals**                |         29         |         24         |         10         |         10         |         23         |
+| **Aggregate Totals**                |         26         |         24         |         10         |         10         |         23         |
 
 ## Notes
 

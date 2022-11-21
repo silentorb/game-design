@@ -64,38 +64,11 @@ The enemies should be:
 
 ### Seductress
 
-> :bulb: Stationary immobilizing
+> :bulb: Stationary immobilizing
 
 #### Gender
 
 * Female
-
-#### Themes
-
-##### Primary
-
-* Beauty / Grace / Charm
-* Sight / Vision / Visage
-* Dance / Rhythm / Writhing / Deformation
-* Insidious / Corrupt
-* Manipulation / Restriction
-
-##### Possible
-
-* Vanity / Mirrors / Reflection
-* Love / Hearts / Passion
-* Fragrance / Flowers / Roses
-* Demonic / Horns
-* Fire / Flames / Ash
-* Tendrils
-
-#### Possible Colors
-
-* Yellow
-* Orange
-* Red
-* Purple
-* Black
 
 #### Things to Avoid
 
@@ -115,6 +88,7 @@ The enemies should be:
 * If tendrils are used, I don't want the character to be full blown Lovecraftian
   * This character should be mysterious, but not *that* alien
   * Part of the theme is being both mysterious and yet comfortably familiar—someone players can feel safe with even though they shouldn't
+* There's a lot of similarities between this character and the Red Queen from the Alice games, which is not intentional
 
 #### Notes
 
@@ -122,70 +96,25 @@ The enemies should be:
 
 ### Beast
 
-> :bulb: Roaming melee
+> :bulb: Roaming melee
 
 #### Gender
 
 * Male
 
-#### Themes
-
-##### Primary
-
-* Animal / Wolf / Bear / Hog / Goat / Bull
-* Hair / Claws / Fangs / Hooves
-* Deformation / Hunchback / Mismatched
-* Physical might / Muscles
-* Foolishness / Stupidity / Base / Ham fisted
-* Wild / Violence / Passion / Lust / Bloodlust / Anger / Rage / Lashing out
-* Mercurial / Morphing / Extremes
-* Hunter / Victimizer / Murder / Rape
-* Grunting / Growling / Groaning / Squealing
-* Fever / Hunger / Addiction / Withdrawals / Starvation
-
-##### Possible
-
-* Demonic / Horns
-* Snake eyes / Mismatched snake eye
-* Poor vision
-
-#### Possible Colors
-
-* Brown
-* Skin tones
-* Red
-
 ### Poisoner
 
-> :bulb: Stationary ranged
+> :bulb: Stationary ranged
+
+#### Things to Avoid
+
+* Aspects of this character appear similar to the villain Poison Ivy (Poison plant female) but that wasn't the intended direction
+  * This character is not:
+    * A temptress
+    * Playful
+    * Concerned with green Earth politics
 
 #### Gender
 
 * Female
 
-#### Themes
-
-##### Primary
-
-* Spite / Envy / Insecure / Undermining / Petty
-* Plant / Tendrils / Leaves
-* Poison / Disease
-* Withered / Decay
-* Gossip / Attacking from a distance
-* Strongholds / Lingering / Hard to shake
-* Obsession / Dwelling on the past / Judgmental / Bitterness / Prejudice / Stubborn
-
-##### Possible
-
-* Whining / Moping / Crying / Tears / Liquid / Dew
-* Thorns / Thistles
-* Rashes
-* Slime / Mucous / Vomit / Acidic / Toxic / Bubbling
-* Flowers
-* Aged / Old
-
-#### Possible Colors
-
-* Primary: Green
-* Secondary: Gray / Black
-* Secondary: Any bright color
