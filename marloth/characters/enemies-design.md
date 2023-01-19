@@ -78,7 +78,7 @@
 * Skin tones
 * Red
 
-## Poisoner
+## Spite
 
 > :bulb: Stationary ranged
 
@@ -103,8 +103,7 @@
 
 * Whining / Moping / Crying / Tears / Liquid / Dew
 * Thorns / Thistles
-* Rashes
-* Slime / Mucous / Vomit / Acid / Toxic / Bubbling
+* Acid / Toxic
 * Flowers
 * Aged / Old
 * Flower bud bun
@@ -113,7 +112,7 @@
 
 * Primary: Green
 * Secondary: Gray / Black
-* Secondary: Any bright color
+* Secondary: Blue
 
 ## Lord
 

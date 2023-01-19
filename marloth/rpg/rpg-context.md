@@ -105,14 +105,14 @@ Why do I like skill trees so much?  I would expect someone like me to not like t
 * Big picture
   * I like how skill trees give a clear visual representation of how an ability fits within the larger picture and how it relates to other abilities
 * Planning ahead
-  * Similar to the previous point, a skill tree allows players to plan ahead—if I want to get this later ability I need to first choose this earlier ability
+  * Similar to the previous point, a skill tree allows players to plan ahead—if I want to get a later ability I see the earlier abilities I need to acquire first
 * Theme visualization
-  * I love character class themes, and an skill tree can act as a showcase to display all of the abilities in a single view so you get the full force of the theme
+  * I love character class themes, and skill trees can act as showcases, displaying all of the abilities in a single view so the player can get the full force of the theme
 
 #### Cons
 
 * They are not as flexible to develop and expand upon
-* Most games with skill trees appear out of the gate with those trees fully fleshed out and fine-tuned to fit within a single UI view
+* Most games with skill trees are released out of the gate with the trees fully fleshed out and fine-tuned to fit within a single UI view
 * Skill trees loose some of their appeal when they need scrolling or zooming
 * They nearly require a level-based character system
   * It is possible though uncommon to have non-level based skill trees
@@ -131,7 +131,7 @@ Why do I like skill trees so much?  I would expect someone like me to not like t
 
 ### Motivation
 
-* Disadvantages fit particularly well in survival horror games and have been increasingly featured in recent games
+* Disadvantages fit particularly well in survival horror games
 * I've toyed around with idea in the past of having characters age and get slowly weaker over the course of a playthrough—I wasn't completely sold on the idea when it was a simple stat loss (gradual decline in max health, speed, etc.) but endlessly accumulated disadvantages sounds more interesting (I may have thought about that before but the foundation of my designs did not support the idea as well as the current foundation.)
   * Part of the motivation for this is the market currently has more than enough power fantasies and I like the idea of anti-power fantasies, which again is more inline with survival horror
     * Part of this motivation is also because I think excessive power fantasizing is unhealthy and is subtly warping cultural values
@@ -150,7 +150,7 @@ Why do I like skill trees so much?  I would expect someone like me to not like t
 
 ## Character Planning
 
-* I love planning in games but this game can't have everything and planning doesn't fit well with the rest of the elements
+* I love planning in games but this game can't have everything and planning doesn't fit well with the rest of the elements
 * Later versions could have supplemental features to better support planning, such as report views visualize future possibilities
 
 

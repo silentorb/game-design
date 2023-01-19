@@ -36,13 +36,14 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Assets use industry standard format |                    | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Fast editor loading                 |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Minimal editor pauses               |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Minimal editor pauses               | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Performant editor                   | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Easily customizable editor          |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
 | Robust level creation               | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
 | Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
-| **Totals**                          |         2          |         7          |         6          |         1          |         6          |
+| **Totals**                          |         4          |         7          |         7          |         2          |         7          |
 |                                     |                    |                    |                    |                    |                    |
 | **General Features**                |                    |                    |                    |                    |                    |
 | Integrated 3D game framework        | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
@@ -68,7 +69,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Smooth performance                  | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |                    |
 | **Totals**                          |         6          |         7          |         0          |         4          |         1          |
 |                                     |                    |                    |                    |                    |                    |
-| **Aggregate Totals**                |         26         |         24         |         10         |         10         |         23         |
+| **Aggregate Totals**                |         28         |         24         |         11         |         11         |         24         |
 
 ## Notes
 
