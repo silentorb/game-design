@@ -25,11 +25,11 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
 | Lots of free content                | :heavy_check_mark: |                    |                    | :heavy_check_mark: |                    |
 | Advanced character animation        | :heavy_check_mark: |                    |        :x:         |                    |                    |
-| Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | Professional UI scaling             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Elegant shader programming          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
 | Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| **Totals**                          |         8          |         5          |         -2         |         1          |         2          |
+| **Totals**                          |         8          |         5          |         -3         |         1          |         2          |
 |                                     |                    |                    |                    |                    |                    |
 | **Workflow**                        |                    |                    |                    |                    |                    |
 | Modular scenes                      |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
@@ -40,13 +40,13 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Performant editor                   | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Easily customizable editor          |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
-| Robust level creation               | :heavy_check_mark: | :heavy_check_mark: |        :x:         |                    |                    |
+| Robust level creation               |                    | :heavy_check_mark: |        :x:         |                    |                    |
 | Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
 | Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
-| **Totals**                          |         4          |         7          |         7          |         2          |         7          |
+| **Totals**                          |         3          |         7          |         7          |         2          |         7          |
 |                                     |                    |                    |                    |                    |                    |
 | **General Features**                |                    |                    |                    |                    |                    |
-| Integrated 3D game framework        | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
+| Integrated 3D game framework        | :heavy_check_mark: |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Robust profiling tools              | :heavy_check_mark: |                    |        :x:         |        :x:         |                    |
 | Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Robust physics                      | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
@@ -54,12 +54,12 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Robust AI navigation                | :heavy_check_mark: |                    |                    |                    | :heavy_check_mark: |
 | 2D games                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
-| **Totals**                          |         8          |         3          |         -1         |         0          |         6          |
+| **Totals**                          |         8          |         4          |         0          |         0          |         6          |
 |                                     |                    |                    |                    |                    |                    |
 | **Reliability and Usability**       |                    |                    |                    |                    |                    |
 | Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |        :x:         |
 | General purpose engine              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Easy editor installation            |        :x:         |                    | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| Easy editor installation            |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | Editor can run on medium hardware   |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Good documentation                  | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |                    |
 | High performance scripting          | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
@@ -67,9 +67,9 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Minimal bugs                        | :heavy_check_mark: |                    |                    |                    |                    |
 | Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | Smooth performance                  | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |                    |
-| **Totals**                          |         6          |         7          |         0          |         4          |         1          |
+| **Totals**                          |         6          |         8          |         0          |         4          |         1          |
 |                                     |                    |                    |                    |                    |                    |
-| **Aggregate Totals**                |         28         |         24         |         11         |         11         |         24         |
+| **Aggregate Totals**                |         27         |         26         |         11         |         11         |         24         |
 
 ## Notes
 

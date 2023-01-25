@@ -5,7 +5,7 @@
   * The classic example is Dungeon Keeper: even though it is one of the ultimate "high concept" video games, it is really clunky and I've rarely enjoyed actually *playing* it
 * If I did go with indirect player agency, how would that work?
   * As is so often the case, I don't have a precedent for this in a third-person game—most games with indirect player agency are god games
-* Other games with Indirect Agency like Dungeon Keeper fall back on micromanagement
+* Games with Indirect Agency like Dungeon Keeper usually fall back on micromanagement
   * I don't know why
   * I can try to not fall back on micromanagement and see what happens
 

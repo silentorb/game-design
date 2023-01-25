@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-*  At the end of the day, a splash of this element could add some fun but I don't want to focus on it because it relies too much on slaughter
+*  At the end of the day, a splash of this element can add some fun but I don't want to focus on it because it relies too much on slaughter
 
 ## Motivation
 

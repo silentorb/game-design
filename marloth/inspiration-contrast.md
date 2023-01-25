@@ -2,7 +2,7 @@
 
 ## Overview
 
-* There are no games that are similar to the game I want to make
+* There are not games that are similar to the game I want to make
 * That's not a good thing
 * This document is an attempt to isolate the differences between the games closest to what I want to make and the game I want to make
 * There are some games that are in many ways closer mechanics-wise but are not immersive 3D games (real time first or third person), which rules them out

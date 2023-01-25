@@ -1,70 +1,54 @@
 # Inspirations
 
-## Setting
+## Primary
 
-### Games
+* Retro FPS
 
-* Alan Wake
-* Neverwinter Nights
+  * DOOM 2
+    * Abandon
+    * AUGER;ZENITH
+    * Maxim Xul
+    * Don't Turn Your Back On The City
+    * Brutal DOOM
+
+  * Blood
+
+  * Duke Nukem 3D
+  * Ion Fury
+  * Arthurian Legends
+
+* Tradtional CRPG
+
+  * Pillars of Eternity
+
 * Dark Souls
-* American McGee's Alice
-* Alice: Madness Returns
-* Mordheim
 * Dishonored
-* Darkest Dungeon
-* Grim Dawn
-* The Witcher 3
-* DOOM 2
-* Blood
-
-### Television
-
-* Supernatural
-* Angel
-* RWBY
-* Jonathan Strange & Mr. Norrell
-* The Office
-* Foyle's War
-
-### Books
-
-* Jane Austen
-* Charles Dickens
-* H. P. Lovecraft
-* The Lady in White
-* North and South
-* Alice in Wonderland
-
-### Comics
-
-* Naruto
-* Gantz
-* Berserk
-* Watchmen
-* Tenkuu Shinpan
-* Doom Patrol (2016)
-* Spider-Man (Renew Your Vows)
-* Justice League America (International)
-* X-Factor Investigations
-
-
+* Roguelites
+* Paladins
+* Alan Wake
+* Dungeon Defenders
+* Lego Batman 2
+* Alice
+  * American McGee's Alice
+  * Alice: Madness Returns
+* Amnesia: The Dark Descent
 
 ## Gameplay Matrix
 
-| Game               | Primary Action                    | Primary Goals                        | Loss                                | Players                  |
-| ------------------ | --------------------------------- | ------------------------------------ | ----------------------------------- | ------------------------ |
-| Alan Wake          | Fighting                          | Reach locations                      | Checkpoints                         | Single                   |
-| Neverwinter Nights | Fighting                          | Complete quests                      | Save scum                           | Single and Co-op         |
-| Dark Souls         | Fighting                          | Reach locations / Slay bosses / Grow | Superior checkpoints                | Single and Co-op and PvP |
-| Alice Games        | Fighting / Platforming            | Reach locations                      | Checkpoints                         | Single                   |
-| Tales of Maj'Eyal  | Fighting                          | Complete quests / Grow               | Lives and Permadeath                | Single                   |
-| Mordheim           | Moving units                      | Defeat opponents / Gather resources  | Minion grinder                      | Single and PvP           |
-| Dishonored         | Fighting / Sneaking               | Reach locations                      | Checkpoints                         | Single                   |
-| Grim Dawn          | Fighting                          | Grow / Reach locations               | Minor death penalties or permadeath | Single                   |
-| The Witcher 3      | Questing                          | Complete quests                      | Save scum                           | Single                   |
-| DOOM 2             | Fighting                          | Reach locations                      | Save scum                           | Single                   |
-| Slay the Spire     | Fighting / Deck Building          | Reach locations / Grow               | Permadeath                          | Single                   |
-| Paladins           | Fighting                          | Kill competitors                     | Respawning with match loss          | Team PvP                 |
-| TBoI               | Fighting                          | Reach locations / Slay bosses / Grow | Permadeath                          | Single                   |
-| Deus Ex            | Fighting / Sneaking / Interacting |                                      | Save scum                           | Single                   |
+| Game              | 3D   | Realtime |
+| ----------------- | ---- | -------- |
+| Linear FPS        |      |          |
+| Team-based FPS    |      |          |
+| Dark Souls        |      |          |
+| Alice Games       |      |          |
+| Tales of Maj'Eyal |      |          |
+| Mordheim          |      |          |
+| Dishonored        |      |          |
+| Grim Dawn         |      |          |
+| The Witcher 3     |      |          |
+| DOOM 2            |      |          |
+| Slay the Spire    |      |          |
+| Paladins          |      |          |
+| TBoI              |      |          |
+| Deus Ex           |      |          |
 
