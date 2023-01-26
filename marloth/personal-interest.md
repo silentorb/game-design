@@ -172,16 +172,32 @@ As a player, what do I look for in games?
 
 ## Matrix
 
+This table indicates the synergies and conflicts between the primary desired game features.
+
 |                |     3D     | Roguelite  |  Strategy  | Challenge  |   Co-op    | Minimal Combat | Spiritual  | Exploration | Persistence | Cozy       |
 | -------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------------: | :--------: | :---------: | ----------- | ---------- |
-| 3D             |            |    :x:     |    :x:     | :thumbsup: | :thumbsup: |      :x:       |    :x:     | :thumbsup:  |             | :thumbsup: |
-| Roguelite      |    :x:     |            |            | :thumbsup: | :thumbsup: |      :x:       |    :x:     | :thumbsup:  | :x:         |            |
-| Strategy       |    :x:     |            |            | :thumbsup: |    :x:     |   :thumbsup:   | :thumbsup: |             | :thumbsup:  |            |
-| Challenge      | :thumbsup: | :thumbsup: | :thumbsup: |            |    :x:     |   :thumbsup:   |    :x:     | :thumbsup:  |             |            |
-| Co-op          | :thumbsup: | :thumbsup: |    :x:     |    :x:     |            |                |    :x:     | :thumbsup:  |             |            |
-| Minimal Combat |    :x:     |    :x:     | :thumbsup: | :thumbsup: |            |                | :thumbsup: |             | :thumbsup:  | :thumbsup: |
-| Spiritual      |    :x:     |    :x:     | :thumbsup: |    :x:     |    :x:     |   :thumbsup:   |            |             | :thumbsup:  | :thumbsup: |
-| Exploration    | :thumbsup: | :thumbsup: |            | :thumbsup: | :thumbsup: |                |            |             | :x:         | :x:        |
-| Persistence    |            |    :x:     | :thumbsup: |            |            |   :thumbsup:   | :thumbsup: |     :x:     |             | :thumbsup: |
-| Cozy           | :thumbsup: |            |            |            |            |   :thumbsup:   | :thumbsup: |     :x:     | :thumbsup:  |            |
+| 3D             |            |    :x:     |    :x:     | :thumbsup: | :thumbsup: |      :x:       |    :x:     | :thumbsup:  | :thumbsup:  | :x:        |
+| Roguelite      |    :x:     |            | :thumbsup: | :thumbsup: | :thumbsup: |      :x:       |    :x:     | :thumbsup:  | :x:         | :x:        |
+| Strategy       |    :x:     | :thumbsup: |            | :thumbsup: | :thumbsup: |   :thumbsup:   | :thumbsup: |     :x:     | :thumbsup:  | :thumbsup: |
+| Challenge      | :thumbsup: | :thumbsup: | :thumbsup: |            |    :x:     |   :thumbsup:   |    :x:     | :thumbsup:  | :x:         | :x:        |
+| Co-op          | :thumbsup: | :thumbsup: | :thumbsup: |    :x:     |            |   :thumbsup:   |    :x:     | :thumbsup:  | :thumbsup:  | :thumbsup: |
+| Minimal Combat |    :x:     |    :x:     | :thumbsup: | :thumbsup: | :thumbsup: |                | :thumbsup: | :thumbsup:  | :thumbsup:  | :thumbsup: |
+| Spiritual      |    :x:     |    :x:     | :thumbsup: |    :x:     |    :x:     |   :thumbsup:   |            |     :x:     | :thumbsup:  | :thumbsup: |
+| Exploration    | :thumbsup: | :thumbsup: |    :x:     | :thumbsup: | :thumbsup: |   :thumbsup:   |    :x:     |             | :x:         | :x:        |
+| Persistence    | :thumbsup: |    :x:     | :thumbsup: |    :x:     | :thumbsup: |   :thumbsup:   | :thumbsup: |     :x:     |             | :thumbsup: |
+| Cozy           |    :x:     |    :x:     | :thumbsup: |    :x:     | :thumbsup: |   :thumbsup:   | :thumbsup: |     :x:     | :thumbsup:  |            |
 
+Just for contrast, here's a slice of a table if 3D was replaced with an abstract UI (that could still have some embedded 3D elements but wouldn't be a free roaming perspective)
+
+|                | Abstract UI |
+| -------------- | :---------: |
+| Abstract UI    |             |
+| Roguelite      | :thumbsup:  |
+| Strategy       | :thumbsup:  |
+| Challenge      | :thumbsup:  |
+| Co-op          |     :x:     |
+| Minimal Combat | :thumbsup:  |
+| Spiritual      | :thumbsup:  |
+| Exploration    |     :x:     |
+| Persistence    | :thumbsup:  |
+| Cozy           | :thumbsup:  |
