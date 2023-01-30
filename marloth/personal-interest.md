@@ -1,5 +1,12 @@
 # Personal Interest
 
+## Primary Motivations
+
+1. Traverse an interesting 3D world
+2. Convey spiritual principles
+3. RPG-style character growth
+4. Something to play with my sons
+
 ## Style
 
 As a player, what do I look for in games?
@@ -189,15 +196,25 @@ This table indicates the synergies and conflicts between the primary desired gam
 
 Just for contrast, here's a slice of a table if 3D was replaced with an abstract UI (that could still have some embedded 3D elements but wouldn't be a free roaming perspective)
 
-|                | Abstract UI |
-| -------------- | :---------: |
-| Abstract UI    |             |
-| Roguelite      | :thumbsup:  |
-| Strategy       | :thumbsup:  |
-| Challenge      | :thumbsup:  |
-| Co-op          |     :x:     |
-| Minimal Combat | :thumbsup:  |
-| Spiritual      | :thumbsup:  |
-| Exploration    |     :x:     |
-| Persistence    | :thumbsup:  |
-| Cozy           | :thumbsup:  |
+|                | Abstract UI | Sandbox    |
+| -------------- | :---------: | ---------- |
+| Abstract UI    |             | :x:        |
+| Sandbox        |     :x:     |            |
+| Roguelite      | :thumbsup:  | :x:        |
+| Strategy       | :thumbsup:  | :x:        |
+| Challenge      | :thumbsup:  | :x:        |
+| Co-op          |     :x:     | :thumbsup: |
+| Minimal Combat | :thumbsup:  | :thumbsup: |
+| Spiritual      | :thumbsup:  | :thumbsup: |
+| Exploration    |     :x:     | :x:        |
+| Persistence    | :thumbsup:  | :thumbsup: |
+| Cozy           | :thumbsup:  | :thumbsup: |
+
+## Narrow View
+
+|           |     3D     |   Growth   |   Co-op    | Spiritual |
+| --------- | :--------: | :--------: | :--------: | :-------: |
+| 3D        |            | :thumbsup: | :thumbsup: |    :x:    |
+| Growth    | :thumbsup: |            | :thumbsup: |    :x:    |
+| Co-op     | :thumbsup: | :thumbsup: |            |    :x:    |
+| Spiritual |    :x:     |    :x:     |    :x:     |           |
