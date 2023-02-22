@@ -153,4 +153,15 @@ Why do I like skill trees so much?  I would expect someone like me to not like t
 * I love planning in games but this game can't have everything and planning doesn't fit well with the rest of the elements
 * Later versions could have supplemental features to better support planning, such as report views visualize future possibilities
 
+## RPG Character System Matrix
+
+|                      | Type    | Character Creation                   | Character Growth                     |
+| -------------------- | ------- | ------------------------------------ | ------------------------------------ |
+| Tales of Maj Eyal    | Class   | :closed_book:                        | :green_book::green_book::green_book: |
+| Dungeons of Dredmor  | Domain  | :green_book::green_book::green_book: | :orange_book::orange_book:           |
+| Grim Dawn            | Class   | :closed_book:                        | :green_book::green_book::green_book: |
+| Pillars of Exile     | Class   | :orange_book::orange_book:           | :orange_book::orange_book:           |
+| The Binding of Isaac | Upgrade | :closed_book:                        | :orange_book::orange_book:           |
+| Dark Souls           | Domain  | :closed_book:                        | :orange_book::orange_book:           |
+|                      |         |                                      |                                      |
 

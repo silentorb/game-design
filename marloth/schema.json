@@ -1,0 +1,30 @@
+{
+  "id": "marloth/game",
+  "title": "Marloth Game",
+  "structures": {
+    "elements": {
+      "title": "Elements",
+      "properties": {
+        "requirements": {
+          "title": "Requirements",
+          "type": {
+            "name": "list",
+            "types": ["requirements"]
+          }
+        }
+      }
+    },
+    "requirements": {
+      "title": "Requirements",
+      "properties": {
+        "elements": {
+          "title": "Elements",
+          "type": {
+            "name": "list",
+            "types": ["elements"]
+          }
+        }
+      }
+    }
+  }
+}
