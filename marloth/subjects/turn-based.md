@@ -1,0 +1,66 @@
+# Turn Based
+
+## Overview
+
+* For many years I have played around with the idea of the Marloth game revolving around a cycle where the player interacts with the world, returns home to sleep, the world is updated, and then the player steps out into the updated world and sees what has changed
+  * In essence, the player and the world are taking turns
+  * Some effects of the player and the world are still immediate
+    * What are or aren't is still fuzzy to me
+* I'm not sure why I've never fully run with this direction
+  * I can't recall ever thinking it was a *bad* idea
+  * Possibly I've had a subconscious aversion because this would work best as a foundational feature and I've been hesitant to build on a foundation I've never seen before
+    * Not that that's every stopped me with other personal projects...
+    * I guess Dark Souls does do this to a lesser degree, and is probably one of the subconscious inspirations for the idea
+* The main purpose of this document is to define the idea and help weigh whether to seriously pursue it
+
+## Advantages
+
+Here are the advantages to this turn-based approach:
+
+1. It provides an inexpensive way to integrate diverse and complex narrative logic
+2. It relies heavily on implication (and I love implication)
+3. It lends itself well to strategy (something that is normally hard to inject into most video games, especially real-time games)
+4. It lends itself well to the cozy-horror style I'm trying to establish, where the dangerous world is real-time and the turn-based aspect takes place when you are home
+5. It lends itself well to spatial reality—potentially a lot can be communicated through discreet changes in spatial reality
+6. This is related to many of the earlier points but is worth specifying—this approach is possibly the most effective solution I've ever seen for marrying turn-based and real-time gameplay
+
+## Disadvantages
+
+Here are the disadvantages to this turn-based approach:
+
+1. There is ambiguity between its deferred effects and immediate effects
+2. It is very game defining—if I run with this feature it will be a primary feature
+3. It has little precedent and will require extra trial and error
+4. It is a little awkward with multiplayer (though still possible—all of the players will need to sleep at the same time)
+
+## Abstract Home
+
+This is potentially worth its own article but it has its involved with the turn-based approach so I'm including it here for now.
+
+The idea here is to remove the spatial home interior and represent it through a GUI instead
+
+* It would still have a 3D home interior background, but the player would no longer navigate it in first person
+* The entirety of the home experience would become turn-based (with a few minor race conditions in multiplayer)
+
+### Motivation
+
+* Turn-based is more relaxing than real-time, and the home section of the game is all about being relaxing
+* Most of what I've been wanting the player to do in the home lends itself better to a GUI than interacting with a spatial environment
+* This approach is easier to develop and will allow me to more quickly add home gameplay features
+* It might sound trivial, but a significant part of the cozy tone I'm trying to create requires the player to be sitting down, and sitting down doesn't work well in a first person game
+  * Similarly, a significant part of the desired tone is for the player to be drinking tea and eating snacks while performing their other activities, things that are likewise awkward in first person mode but can be more easily nestled into a GUI
+
+### Disadvantages
+
+* This game's design has always had a gap between the home and outside, but this abstract home approach really solidifies that gap and removes most possibility of creating any overlap in the future
+  * For example, I've toyed around with the idea of having secret passages within the home
+* While for the most part the abstraction lends itself to cozy, there still is something cozy about walking through a cozy 3D room in real time, and that would be missed
+* It's possible that this abstraction could feel a little cheap to players, especially in comparison to the more tangible outside world
+
+### Notes
+
+* This is similar to how some other games work
+  * Some real time RPGs switch to a more abstract, turn-based mode when the player enters a shop or tavern
+  * While Minecraft doesn't stop the clock when the player is home, players normally spend most of their home time working with GUIs
+* In the future if it ever looks like I can effectively replace enough of this functionality with a spatial real-time interior, I'll do it
+* The alternative would be more like Minecraft, where the home interior would still have both a spatial layout and different GUI screens while interacting with each furnishing
