@@ -1,6 +1,6 @@
-# Librarian
+# Monster hunter
 
-## Requirements
+## Supports
 
 
 

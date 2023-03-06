@@ -1,6 +1,6 @@
 # Gardener
 
-## Requirements
+## Supports
 
 
 

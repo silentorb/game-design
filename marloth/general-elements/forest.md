@@ -1,6 +1,6 @@
 # Forest
 
-## Requirements
+## Supports
 
 
 

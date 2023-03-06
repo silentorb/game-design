@@ -1,6 +1,6 @@
-# Fairytale Forest
+# Tavern
 
-## Requirements
+## Supports
 
 
 

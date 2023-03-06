@@ -1,4 +1,0 @@
-# Scavenging
-
-## Requirements
-

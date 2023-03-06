@@ -1,13 +1,10 @@
 {
-  "id": "marloth/game",
+  "id": "marloth-game",
   "title": "Marloth Game",
   "types": {
-    "elements": {
+    "general-elements": {
       "title": "Elements",
       "properties": {
-        "requirements": {
-          "type": "list"
-        },
         "tags": {
           "type": "list"
         }
@@ -17,9 +14,21 @@
       "title": "Requirements",
       "properties": {
         "elements": {
+          "title": "Solutions",
           "type": "list"
         }
       }
+    },
+    "elements": {
+      "title": "Elements",
+      "properties": {
+        "requirements": {
+          "title": "Supports",
+          "type": "list",
+          "otherProperty": "elements"
+        }
+      },
+      "union": ["general-elements", "requirements"]
     },
     "tags": {
       "title": "Tags",
