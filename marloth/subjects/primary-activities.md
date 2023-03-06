@@ -8,6 +8,8 @@
 2. Exploration
 3. Avoiding dangers
 4. Gathering resources
+5. Observation
+6. Interacting with environment
 
 ### Navigation
 
@@ -40,3 +42,14 @@
 * However, resource gathering keeps coming back as a perfect ingredient for rounding out this recipe
 * Once again, maybe I can isolate the games with resource gathering which I enjoyed the most, and see if there are ways I can make the resource gathering more fun for someone like me
 * It might help a little if the resources are finite, unlike many survival games where resources replenish infinitely and gathering becomes a fallback grind, similar to the way some RPGs fall back on level grinding
+
+### Observation
+
+* In order for observation to be meaningful for gameplay, the player must face choices that depend on questions which can only be answered through observation
+* 
+
+### Interacting with environment
+
+* Specifically, particular game elements supporting the player interacting with them when facing them and pressing an interaction button
+* By default these would contain immediate effects and some of them could involve a GUI menu
+* 

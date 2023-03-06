@@ -14,25 +14,14 @@ The subset here includes:
 ## Character Classes
 
 * [Context](./rpg-context.md#character-classes)
-
-* I would like to have a class-based system without levels
-* I'm open to having some shared features between classes
-
-## Passive Abilities
-
-* I like the idea of exclusively using passive/auto abilities and no activated abilities
-* Most abilities would still have an activity but activation would be triggered by certain circumstances
-* Different triggers could be attached to abilities that specified the circumstances
-
-* This is both a way of leverage a design pattern I like to call Molineux agency, or indirect agency: having the player interact with the world indirectly instead of directly
-  * This has gained in popularity with games like Vampire Survivor
+* The most flexible system to develop is an upgrade system with possible splashes of domain and class systems
 
 ## Disadvantages
 
 * Partially inspired by GURPS, I've always liked the idea of putting as much weight on negative character traits as positive character traits
   * When I played GURPS with friends and families, the players actually enjoyed selecting the disadvantages *more* than the advantages
 
-### Details	
+### Details
 
 * It's like suddenly acquiring a lethal allergy to peanuts—items that at one time provided nourishment are now deadly obstacles to be avoided
 * I also like the idea of abilities that have both an advantage and a disadvantage
@@ -71,7 +60,7 @@ How do players acquire disadvantages?
       * Players have less incentive to explore disadvantages than they do advantages
     * Rogue-lite disadvantage selection does not have the fun factor that selecting disadvantages did with GURPS because it was all before the gameplay started and didn't feel as life and death as choosing a disadvantage while in the middle of trying to survive
   * I want at least some of the disadvantages to represent vices, and it's not good to require players to actively choose vices
-* It would probably work better at both a thematic and gameplay level for disadvantage acquisition to be influence by player actions
+* It would probably work better at both a thematic and gameplay level for disadvantage acquisition to be influenced by player actions
   * For example, having a creature type that, when visible on screen long enough over time, would give the player a disadvantage relating to that creature type
 * I like the idea of having numeric disadvantage accumulators during an outing, and then when the player sleeps those accumulators are applied and translated to the acquisition of actual disadvantages which are presented to the player via a UI screen
   * You've gained a new [disadvantage]!
