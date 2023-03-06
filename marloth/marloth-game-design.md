@@ -56,11 +56,18 @@ Essential requirements that don't complicate the design, don't get in the way of
 * Single difficulty
 * Short playthroughs
 
+## Non-goals
+
+* Constant busy work
+  * It's okay for the player to wait for things
+* Long play throughs
+* 
+
 ## Design Challenges
 
 #### Non-Spatial Progress
 
-* Spatial progress—a term I just made up to represent victory being tied to the player getting to a particular location
+* Spatial progress—a term I made up to represent victory being tied to the player getting to a particular location
 * Most of my Marloth games have been trying to avoid or minimize spatial progress—having a world where the player hangs out instead of tries to just get past—but that has never worked out great
 
 #### Scaling Player Count

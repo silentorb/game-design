@@ -39,3 +39,4 @@
 * This is something I never look for in games and rarely enjoy—I'm not a hunter/gatherer
 * However, resource gathering keeps coming back as a perfect ingredient for rounding out this recipe
 * Once again, maybe I can isolate the games with resource gathering which I enjoyed the most, and see if there are ways I can make the resource gathering more fun for someone like me
+* It might help a little if the resources are finite, unlike many survival games where resources replenish infinitely and gathering becomes a fallback grind, similar to the way some RPGs fall back on level grinding
