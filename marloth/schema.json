@@ -46,13 +46,11 @@
           {
             "id": "solutionCount",
             "title": "Solution Count",
-            "query": {
-              "nodes": [
-                ["getDocument", "@", "nodeId"],
-                ["getValue", "L", "elements"],
-                ["count"]
-              ]
-            }
+            "query": [
+              ["getDocument", "@", "nodeId"],
+              ["getValue", "L", "elements"],
+              ["count"]
+            ]
           }
         ]
       }
