@@ -38,5 +38,24 @@
         }
       }
     }
+  },
+  "documents": {
+    "requirements": {
+      "index": {
+        "columns": [
+          {
+            "id": "solutionCount",
+            "title": "Solution Count",
+            "query": {
+              "nodes": [
+                ["getDocument", "@", "nodeId"],
+                ["getValue", "L", "elements"],
+                ["count"]
+              ]
+            }
+          }
+        ]
+      }
+    }
   }
 }

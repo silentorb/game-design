@@ -2,7 +2,7 @@
 
 ## Supports
 
-* [Concrete](../requirements/concrete.md)
+* [Spatial](../requirements/spatial.md)
 
 ## Tags
 
