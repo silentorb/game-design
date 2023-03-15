@@ -2,7 +2,7 @@
 
 ## Solutions
 
-* [House](../general-elements/house.md)
+* [House](../locations/house.md)
 
 ## Supports
 

@@ -2,11 +2,41 @@
   "id": "marloth-game",
   "title": "Marloth Game",
   "types": {
+    "domains": {
+      "title": "Domains",
+      "properties": {
+        "elements": {
+          "title": "Elements",
+          "type": "list"
+        }
+      }
+    },
     "general-elements": {
       "title": "Elements",
       "properties": {
         "tags": {
           "type": "list"
+        }
+      }
+    },
+    "locations": {
+      "title": "Locations",
+      "properties": {
+        "children": {
+          "title": "Children",
+          "type": {
+            "name": "list",
+            "types": ["locations"]
+          },
+          "otherProperty": "parents"
+        },
+        "parents": {
+          "title": "Parents",
+          "type": {
+            "name": "list",
+            "types": ["locations"]
+          },
+          "otherProperty": "children"
         }
       }
     },
@@ -26,9 +56,13 @@
           "title": "Supports",
           "type": "list",
           "otherProperty": "elements"
+        },
+        "domains": {
+          "title": "Domains",
+          "type": "list"
         }
       },
-      "union": ["general-elements", "requirements"]
+      "union": ["general-elements", "requirements", "locations"]
     },
     "tags": {
       "title": "Tags",
