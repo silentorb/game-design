@@ -1,4 +1,4 @@
-# Permadeath
+# Non-player-centric world
 
 ## Domains
 
@@ -6,7 +6,7 @@
 
 ## Supports
 
-* [Horror](../requirements/horror.md)
+
 
 ## Tags
 

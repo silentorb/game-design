@@ -1,4 +1,4 @@
-# Permadeath
+# Random macro factors
 
 ## Domains
 
@@ -6,7 +6,7 @@
 
 ## Supports
 
-* [Horror](../requirements/horror.md)
+
 
 ## Tags
 

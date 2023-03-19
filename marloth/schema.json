@@ -2,6 +2,15 @@
   "id": "marloth-game",
   "title": "Marloth Game",
   "types": {
+    "conflicts": {
+      "title": "Requirements",
+      "properties": {
+        "elements": {
+          "title": "Solutions",
+          "type": "list"
+        }
+      }
+    },
     "domains": {
       "title": "Domains",
       "properties": {
@@ -40,6 +49,19 @@
         }
       }
     },
+    "problems": {
+      "title": "Problems",
+      "properties": {
+        "solutions": {
+          "title": "Solutions",
+          "type": {
+            "name": "list",
+            "types": ["elements"]
+          }
+        }
+      },
+      "union": ["conflicts", "requirements"]
+    },
     "requirements": {
       "title": "Requirements",
       "properties": {
@@ -52,7 +74,7 @@
     "elements": {
       "title": "Elements",
       "properties": {
-        "requirements": {
+        "problems": {
           "title": "Supports",
           "type": "list",
           "otherProperty": "elements"

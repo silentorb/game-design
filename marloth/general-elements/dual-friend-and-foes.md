@@ -1,4 +1,4 @@
-# Permadeath
+# Dual friend and foes
 
 ## Domains
 
@@ -6,7 +6,7 @@
 
 ## Supports
 
-* [Horror](../requirements/horror.md)
+
 
 ## Tags
 

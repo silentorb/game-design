@@ -1,4 +1,4 @@
-# Permadeath
+# Multiplayer respawning as new character
 
 ## Domains
 
@@ -6,7 +6,7 @@
 
 ## Supports
 
-* [Horror](../requirements/horror.md)
+
 
 ## Tags
 

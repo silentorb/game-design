@@ -9,7 +9,7 @@
 * [Indirect agency](./indirect-agency.md)
 * [Minimal combat](./minimal-combat.md)
 * [Multi-domain](./multi-domain.md)
-* [Mystery](./mystery.md)
 * [Simulation](./simulation.md)
 * [Spatial](./spatial.md)
 * [Surreal](./surreal.md)
+* [Suspense](./suspense.md)

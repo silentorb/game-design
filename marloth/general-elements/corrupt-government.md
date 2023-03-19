@@ -1,12 +1,12 @@
-# Permadeath
+# Corrupt government
 
 ## Domains
 
-
+* [Government](../domains/government.md)
 
 ## Supports
 
-* [Horror](../requirements/horror.md)
+
 
 ## Tags
 
