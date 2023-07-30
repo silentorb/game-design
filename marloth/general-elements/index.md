@@ -4,7 +4,6 @@
 * [Books](./books.md)
 * [Contracts](./contracts.md)
 * [Corrupt government](./corrupt-government.md)
-* [Corrupt government](./corrupt-government.md)
 * [Doors](./doors.md)
 * [Dual friend and foes](./dual-friend-and-foes.md)
 * [Fireplace](./fireplace.md)

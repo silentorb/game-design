@@ -21,7 +21,6 @@
 * Minimal combat
 * Realtime yet does not put much weight on reflexes or quick decisions
 * Concrete and immersive (Minimally abstract)
-* Multi-domain
 
 ### Technical
 
@@ -42,6 +41,10 @@
 
 * Constant busy work
   * It's okay for the player to wait for things
+* Athletic world traversal
+  * The traversal in the game will be simple and limited
+  * No jumping, grappling hooks, or wall climbing
+
 
 ## Design Challenges
 

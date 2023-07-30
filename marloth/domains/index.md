@@ -9,5 +9,6 @@
 * [Healthcare](./healthcare.md)
 * [Homemaking](./homemaking.md)
 * [Magic](./magic.md)
+* [Social](./social.md)
 * [Survival](./survival.md)
 * [Transportation](./transportation.md)
