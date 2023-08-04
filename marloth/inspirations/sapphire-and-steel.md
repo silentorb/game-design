@@ -40,3 +40,11 @@
 * When a trap is sprung, the protagonists are not simply injured, but are placed in predicaments that they must escape, usually with some added cost that is either immediately paid or paid over time
   * For example, in the first storyline, Steel freezes himself to rescue Sapphire from a trap, which leaves Steel debilitated for some time after the rescue
 * 
+
+## Follow up questions
+
+* Is there a way for Marloth to implement traps like Sapphire and Steel?
+  * Normally traps in games are cooler in theory than in practice
+    * What are the shortcomings and can they be made cooler
+  * It's simple and a mechanic I was already considering using, but one of the closest examples to this is in Catacomb Abyss, where enemies are immobile and invisible until the player moves close to them
+    * Which in turn was probably derived from older CRPGs which featured random surprise encounters
