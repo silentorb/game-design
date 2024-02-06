@@ -4,72 +4,72 @@ This comparison matrix was created to aid selection of an engine for developing 
 
 GZDoom may seem like an odd option, but it is an impressive technology with a large community and is increasingly powering hit 3D indie games.
 
-|                                     |       Unreal       |       Unity        |       Godot        |       GZDoom       |       Mythic       |
-| ----------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| **Licensing**                       |                    |                    |                    |                    |                    |
-| Open Source                         |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Free source code visibility         | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| No royalties                        |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| No subscriptions                    | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **Totals**                          |         2          |         0          |         4          |         4          |         4          |
-|                                     |                    |                    |                    |                    |                    |
-| **Programming**                     |                    |                    |                    |                    |                    |
-| Targets senior developers           | :heavy_check_mark: |                    |                    |                    | :heavy_check_mark: |
-| Elegant programming                 |        :x:         | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
-| Good Refactoring                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Code separate from assets           | :heavy_check_mark: |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
-| **Totals**                          |         0          |         2          |         3          |         -1         |         4          |
-|                                     |                    |                    |                    |                    |                    |
-| **Graphics and Audio**              |                    |                    |                    |                    |                    |
-| Gorgeous out-of-the-box             | :heavy_check_mark: |                    |                    |                    |                    |
-| Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |        :x:         |
-| Lots of free content                | :heavy_check_mark: |                    |                    | :heavy_check_mark: |                    |
-| Advanced character animation        | :heavy_check_mark: |                    |        :x:         |                    |                    |
-| Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
-| Professional UI scaling             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Elegant shader programming          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
-| Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| **Totals**                          |         8          |         5          |         -3         |         1          |         2          |
-|                                     |                    |                    |                    |                    |                    |
-| **Workflow**                        |                    |                    |                    |                    |                    |
-| Modular scenes                      |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Assets use industry standard format |                    | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Fast editor loading                 |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Minimal editor pauses               | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Performant editor                   | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Easily customizable editor          |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
-| Robust level creation               |                    | :heavy_check_mark: |        :x:         |                    |                    |
-| Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
-| Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
-| **Totals**                          |         3          |         7          |         7          |         2          |         7          |
-|                                     |                    |                    |                    |                    |                    |
-| **General Features**                |                    |                    |                    |                    |                    |
-| Integrated 3D game framework        | :heavy_check_mark: |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
-| Robust profiling tools              | :heavy_check_mark: |                    |        :x:         |        :x:         |                    |
-| Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Robust physics                      | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
-| Robust network support              | :heavy_check_mark: |                    |        :x:         |                    |                    |
-| Robust AI navigation                | :heavy_check_mark: |                    |                    |                    | :heavy_check_mark: |
-| 2D games                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
-| **Totals**                          |         8          |         4          |         0          |         0          |         6          |
-|                                     |                    |                    |                    |                    |                    |
-| **Reliability and Usability**       |                    |                    |                    |                    |                    |
-| Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |        :x:         |
-| General purpose engine              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-| Easy editor installation            |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
-| Editor can run on medium hardware   |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Good documentation                  | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |                    |
-| High performance scripting          | :heavy_check_mark: | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
-| Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |        :x:         |
-| Minimal bugs                        | :heavy_check_mark: |                    |                    |                    |                    |
-| Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
-| Smooth performance                  | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |                    |
-| **Totals**                          |         6          |         8          |         0          |         4          |         1          |
-|                                     |                    |                    |                    |                    |                    |
-| **Aggregate Totals**                |         27         |         26         |         11         |         11         |         24         |
+|                                     |       Unreal       |       Unity        |       Godot        |       GZDoom       |
+| ----------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: |
+| **Licensing**                       |                    |                    |                    |                    |
+| Open Source                         |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Free source code visibility         | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| No royalties                        |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| No subscriptions                    | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
+| **Totals**                          |         2          |         0          |         4          |         4          |
+|                                     |                    |                    |                    |                    |
+| **Programming**                     |                    |                    |                    |                    |
+| Targets senior developers           | :heavy_check_mark: |                    |                    |                    |
+| Elegant programming                 |                    | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| Good Refactoring                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Code separate from assets           | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
+| **Totals**                          |         1          |         2          |         3          |         -1         |
+|                                     |                    |                    |                    |                    |
+| **Graphics and Audio**              |                    |                    |                    |                    |
+| Gorgeous out-of-the-box             | :heavy_check_mark: |                    |                    |                    |
+| Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
+| Lots of free content                | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
+| Advanced character animation        | :heavy_check_mark: |                    |        :x:         |                    |
+| Professional audio system           | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
+| Professional UI scaling             | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Elegant shader programming          | :heavy_check_mark: |                    |                    |        :x:         |
+| Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| **Totals**                          |         8          |         4          |         -3         |         0          |
+|                                     |                    |                    |                    |                    |
+| **Workflow**                        |                    |                    |                    |                    |
+| Modular scenes                      |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Assets use industry standard format |                    | :heavy_check_mark: |                    |                    |
+| Fast editor loading                 |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Minimal editor pauses               | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Performant editor                   | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Easily customizable editor          |                    |                    | :heavy_check_mark: |                    |
+| Component system                    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Advanced level creation             |                    | :heavy_check_mark: |        :x:         |                    |
+| Debugging tools                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
+| **Totals**                          |         4          |         7          |         7          |         2          |
+|                                     |                    |                    |                    |                    |
+| **General Features**                |                    |                    |                    |                    |
+| Integrated 3D game framework        | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
+| Robust profiling tools              | :heavy_check_mark: |                    |        :x:         |        :x:         |
+| Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Robust physics                      | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
+| Robust network support              | :heavy_check_mark: |                    |        :x:         |                    |
+| Robust AI navigation                | :heavy_check_mark: |                    |                    |                    |
+| 2D games                            |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |
+| **Totals**                          |         7          |         4          |         -1         |         0          |
+|                                     |                    |                    |                    |                    |
+| **Reliability and Usability**       |                    |                    |                    |                    |
+| Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
+| General purpose engine              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Easy editor installation            |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Editor can run on medium hardware   |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Good documentation                  |                    |                    |        :x:         |        :x:         |
+| High performance scripting          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Career opportunities                | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+| Minimal bugs                        | :heavy_check_mark: |                    |                    |                    |
+| Backwards compatibility             | :heavy_check_mark: |                    |        :x:         | :heavy_check_mark: |
+| Stable performance                  | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
+| **Totals**                          |         8          |         8          |         0          |         4          |
+|                                     |                    |                    |                    |                    |
+| **Aggregate Totals**                |         29         |         24         |         9          |         10         |
 
 ## Notes
 
@@ -82,13 +82,6 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
     * This is not legal advice, but it is probable that Unity can only practically enforce their terms when there is a published game
 * In essence, Unity's terms discourage contractors and agencies who only dabble with Unity
 * Conversely, Unity's terms prefer customers who are either pure hobbyists or dedicated game developers
-
-### Targets Senior Developers
-
-* The foundation of Unity's architecture was overly targeted toward amateur programmers
-  * Unity could have been designed out of the gate with an advanced lower level and an easier higher level, but instead it had a single easy level, resulting in the original Unity being a toy instead of a serious developer tool
-    * This initial architecture direction probably did not save time in reaching market, but instead would have led to a codebase that tripped over itself
-* Unity has been gradually remedying this amateur foundation over the past decade but there is still a lot of legacy residue
 
 ### Elegant Programming
 
@@ -127,24 +120,6 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
   * Unreal and Unity's component systems work great for 90% of use cases and are terrible for the remaining 10%
   * Godot's node system is convoluted for 90% of use cases, and great for the remaining 10%
 
-### Robust level creation
-
-#### Unreal
-
-* The official way to create levels in Unreal is to prototype with BSP brushes and then replace all of that with static meshes
-* Unreal's BSP tools are old and minimally maintained
-* BSP could be used for runtime but it is not optimized for that
-* Static meshes are great for detail but don't lend themselves well to seamless, organic architecture
-* Unreal recently added integrated static mesh editing tools, but at least for now they have very limited texturing features which makes them effectively useless for serious level creation
-* With Unreal 5.0 the engine is transitioning toward procedurally generating static meshes, which is a game changer and head-and-shoulders above any competition.  However, outside of the [Lyra sample project](https://docs.unrealengine.com/5.0/en-US/lyra-geometry-tools-in-unreal-engine/) there is not much documentation or adoption for this approach yet.
-
-#### Unity
-
-* Unity has both Probuilder and Realtime CSG, both of which support agile prototyping and optimized runtime
-* Each of these tools supports much more organic level geometry than simply using static meshes
-* Using either tools make it easier to perform massive changes to finished levels without extensive rework
-* Realtime CSG is not officially supported by Unity and it is tricky for its maintainers to keep it fully compatible with all major version of Unity
-
 ### Robust profiling tools
 
 * Unity's profiling tools are adequate—Unreal's profiling tools are impressive
@@ -158,7 +133,3 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 * Unreal Engine is a massive installation
 * The Epic Games Store is not a great tool for downloading software, particularly large downloads
 * The Unreal Engine installation process is unusually error prone
-
-### Mythic Rating
-
-* Mythic's features stack up pretty good on paper but the main thing that's a little beyond the scope of that matrix but still pivotal is the maintenance cost

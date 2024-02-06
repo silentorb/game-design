@@ -1,6 +1,6 @@
-# Marloth Combat Design
+ Marloth Combat Design
 
-## Goals
+# Goals
 
 1. To reward creative decision making and adaptation more than quick reflexes
 2. To embrace and fully leverage the spatial nature of 3D games
@@ -9,24 +9,24 @@
 5. To maximize and refine the core challenge of the player moving around a dangerous environment before layering on abilities and RPG elements
 6. To reward strategy when practical
 
-## Rewarding Decisions
+# Rewarding Decisions
 
-### Tactics
+## Tactics
 
 * Most of this will boil down to tactics
 * Tactics is not my favorite type of gameplay, but I can still get into it
 * I prefer strategy, but that is so much harder to [inject into a game like this](#strategy)
 
-### Time to plan
+## Time to plan
 
 * I'm not looking for frenetic gameplay
 * Ideally, I would like to have the best of both worlds between turn-based and real time
 * Giving the player that much time to think is not possible—compromises have to be made
 * When push comes to shove, the gameplay will need to fallback to frenetic gameplay, but that should be a last resort
 
-## Spatial Foundation
+# Spatial Foundation
 
-### What are the most defining aspects of a first person 3D game?
+## What are the most defining aspects of a first person 3D game?
 
 1. Player location
 2. Player facing
@@ -37,7 +37,7 @@ First person 3D games are fundamentally concrete, so all of these aspects are co
 
 Features such as player health are more abstract and are injected into first person games.  (That is partially why health is usually displayed in an abstract HUD instead of within the 3D environment.)
 
-### Mobility
+## Mobility
 
 * The primary activity of a first person game is moving around
 * Moving around is the primary UI of a first person game
@@ -47,7 +47,7 @@ Features such as player health are more abstract and are injected into first per
 
 * The primary decision that the game should reward is when and where the player moves
 
-### Facing
+## Facing
 
 * Changing facing direction is the second most primary activity of a first person game
 * It does not have as big an impact as moving around, but it is still a major and foundational game element
@@ -58,9 +58,9 @@ Features such as player health are more abstract and are injected into first per
     * If a player could only do one of two things, move around or turn around, moving around would provide a much wider variety of sights to see
       * Unless the entire traversable area of the map was a single room
 
-## Passive Combat
+# Passive Combat
 
-### Motivation
+## Motivation
 
 * I've always disliked how much games relying on eliminating all threats instead of surviving them
   * When I first played DOOM I preferred playing it with respawn
@@ -81,7 +81,7 @@ Features such as player health are more abstract and are injected into first per
 * For years I've wrestled with not wanting to make game that are all about killing things
   * If a game is going to have violence, I would rather the violence be done to the player, not by the player
 
-### Challenges
+## Challenges
 
 * The most immediate challenge to passive combat is there is little precedent for it—most of my inspirations are elimination games and I need to be careful not to think I can remove the wings and expect to still fly
   * I need to methodically analyze and enumerate the benefits of elimination in traditional FPS games
@@ -94,20 +94,20 @@ Features such as player health are more abstract and are injected into first per
     * Still provide some option of eliminating threats
     * Are puzzle games comprised of elements that only work when featured within hand crafted scenarios
 
-### Benefits of Elimination Style
+## Benefits of Elimination Style
 
-#### Deadlier enemies
+### Deadlier enemies
 
 * If enemies normally don't live long after the player sees them, enemies can have attacks that would be unbearable if the player had to face them for more extended periods
 * If the game places weight on the quickdraw scenario—whoever shoots first wins, then the game can have very deadly enemies that the player has to kill before the enemy can fire a shot
   * I don't like this style of gameplay and many FPS games fallback on excessive reliance on quickdraw survival, but some of it can spice up gameplay
 
-#### Elimination as a challenge
+### Elimination as a challenge
 
 * The act of elimination can itself be a part of the core game challenge
 * Avoiding enemies can also be a challenge, but it is a *different* challenge
 
-#### Accomplishment
+### Accomplishment
 
 * Eliminating threats provides players a certain sense of accomplishment
   * Each slain enemy is a minor achievement
@@ -118,7 +118,7 @@ Features such as player health are more abstract and are injected into first per
   * Bypassing has less presentation than the corpse left behind as a monument to the player's conquest
     * Corpses in FPS games play a similar role as tokens warriors collect from fallen foes
 
-#### Security
+### Security
 
 * In pure elimination games, eliminated threats stay eliminated
 * There is a certain peace and security from not needing to worry about eliminated threats anymore
@@ -131,12 +131,12 @@ Features such as player health are more abstract and are injected into first per
     * Respawning threats (Left 4 Dead 2)
 * With Marloth's current direction, that cycle still exists but more rarely—It's not until the player returns home that the player can rest easy
 
-#### Crowd Control
+### Crowd Control
 
 * Elimination helps keep threat quantity in check and minimize threat snowballing
   * This is very circumstantial and depends on other aspects of the game design
 
-#### UX
+### UX
 
 * Elimination has a very clear boolean visual and cognitive model: Threats are either active or disabled
 * Most forms of less permanent disabling requires more nebulous states that are harder to convey and mentally track
@@ -147,9 +147,9 @@ Features such as player health are more abstract and are injected into first per
     * Here the nebulous state is temporary and usually promptly resolved, as opposed to passive combat where any similar states may never have a clear resolution
     * Conversely, players get annoyed when engagements against bullet sponges drag on and it is too unclear how much further damage is required to end the battle
 
-### Weighing the Cost
+## Weighing the Cost
 
-#### Deadlier enemies
+### Deadlier enemies
 
 * So far Marloth's survival aspect means enemies don't need to be deadly, they just need to add to the continual loss of player resources
 
@@ -158,11 +158,11 @@ Features such as player health are more abstract and are injected into first per
   * Besides, deadlier enemies don't feel as scary if they can be quickly killed
 
 
-#### Elimination as a challenge
+### Elimination as a challenge
 
   * Avoiding enemies is a sufficient alternative challenge
 
-#### Accomplishment
+### Accomplishment
 
 * This may be a real issue and I may need to periodically take inventory and make sure the gameplay has enough alternative micro-achievements
   * Gathering resources is one of the alternatives
@@ -173,19 +173,19 @@ Features such as player health are more abstract and are injected into first per
     * Since the player can sleep early, it may be worth visually/aurally differentiating a rushed sleep from a more significant sleep
   * Maybe there's some small way to add fanfare for bypassing an enemy?
 
-#### Security
+### Security
 
 * More than the other elimination benefits, this one is a double-edged sword and not having it shouldn't be a problem
 
-#### Crowd Control
+### Crowd Control
 
 * So far Marloth's threat design is relying heavily on stationary enemies and even distributions across maps, greatly helping limit threat congestion
 
-#### UX
+### UX
 
 * I don't know of any real substitute for enemy death UX, but it's a minor point and probably not essential
 
-## Surrounded by Enemies
+# Surrounded by Enemies
 
 * Possibly a part of the solution for this will be to gauge timing, where enemies are not always threats
   * The pausing monsters are a great example of this
@@ -201,21 +201,21 @@ Features such as player health are more abstract and are injected into first per
   * Conversely, arch-vile and pain elemental quantities do not scale logarithmically, making crowds of them a choice for map makers when they want to significantly ramp up the difficulty
 
 
-### Notes
+## Notes
 
 * This has synergy with the passive combat—it's easier to get surrounded by enemies when they are not getting eliminated
 
-## Minimalism
+# Minimalism
 
 * Player abilities and RPG elements add a lot to the player experience, but they are not foundational
 * The primary activity of the player is moving around—that needs to be the primary interface the player uses to interact with the world, and the the primary decision that is rewarded
 
-### Notes
+## Notes
 
 * This goal is a little redundant and could be rolled into the Spatial Foundation goal except this issue is such a common stumbling block it is critical to highlight
   * Most FPS games don't live up to their potential because the designers become distracted by secondary issues and never invest in properly exploring and understanding the core issues of the problem domain
 
-## Strategy
+# Strategy
 
 * Strategy is an optional goal—strategy is so hard to inject into PvE games and I've bombed so many solid game designs by chasing the strategy phantom
 * At the same time, I don't want to miss opportunities where strategy could seamlessly nestle within the tactics

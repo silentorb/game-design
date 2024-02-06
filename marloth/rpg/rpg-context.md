@@ -8,7 +8,7 @@ This is a supplemental document for [RPG Design](./rpg-design).
 
 ## Problems with RPG elements
 
-* They don't naturally fit into a first person game—first person games a concrete while RPG elements are abstract
+* They don't naturally fit into a first person game—first person games are concrete while RPG elements are abstract
 
 * Player growth in any form is hard to balance over time
 

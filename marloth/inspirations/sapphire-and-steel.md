@@ -19,7 +19,7 @@
 
 ### Spatial
 
-* So far, each storyline takes place in distinct location
+* So far, each storyline takes place in a distinct location
   * Each location is partitioned into multiple interconnected rooms and passageways
   * Each location is urban yet has lots of atmosphere
   * Each location is dense and utilizes every square inch
@@ -39,7 +39,6 @@
 * The existence of traps forces the protagonists to proceed carefully and deliberately
 * When a trap is sprung, the protagonists are not simply injured, but are placed in predicaments that they must escape, usually with some added cost that is either immediately paid or paid over time
   * For example, in the first storyline, Steel freezes himself to rescue Sapphire from a trap, which leaves Steel debilitated for some time after the rescue
-* 
 
 ## Follow up questions
 
@@ -48,3 +47,9 @@
     * What are the shortcomings and can they be made cooler
   * It's simple and a mechanic I was already considering using, but one of the closest examples to this is in Catacomb Abyss, where enemies are immobile and invisible until the player moves close to them
     * Which in turn was probably derived from older CRPGs which featured random surprise encounters
+
+## Conclusion
+
+* In essence, Sapphire and Steel is a mystery, and as I've written about in the Marloth story docs, I enjoy mystery, but am not that interested in mystery stories, which are about uncovering the mystery
+* In terms of gameplay, one of the main mechanics I am interested in is composition, which Sapphire and Steel has little of
+* The show would probably translate slightly better to the Marloth story than the game

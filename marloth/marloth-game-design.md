@@ -3,11 +3,12 @@
 ## Design Tasks
 
 * I still haven't defined the player's primary activity
+  * This is primarily blocked by UI challenges
+
 
 ## Gameplay
 
-1. Survival Horror
-2. Roguelike
+1. Roguelike
 3. Role Playing Game
 4. Immersive Sim
 
@@ -21,21 +22,14 @@
 * Minimal combat
 * Realtime yet does not put much weight on reflexes or quick decisions
 * Concrete and immersive (Minimally abstract)
+* Indirect agency
+* Character growth
+* Local co-op
 
 ### Technical
 
 * Feasible for a one-man team
 * Fits within the constraints of Unreal Engine
-
-## Features
-
-* Automatic simulation
-* Indirect agency
-* Character growth
-* Invisible actors and happenings
-* Things happening outside the players' vision?
-* Avoiding dangers
-* Local co-op
 
 ## Non-goals
 
@@ -71,12 +65,12 @@ These are less inherent challenges and more unknowns that I have often struggled
 
 ### What is the Main Gameplay Loop?
 
-1. Wake up
-2. Explore the world
-3. Avoid dangers
-4. Interact with the world
-5. Return home to rest
-6. Review, upgrade, and plan
+1. ~~Wake up~~
+2. ~~Explore the world~~
+3. ~~Avoid dangers~~
+4. ~~Interact with the world~~
+5. ~~Return home to rest~~
+6. ~~Review, upgrade, and plan~~
 
 ### What are the player goals?
 
@@ -92,7 +86,7 @@ These are less inherent challenges and more unknowns that I have often struggled
 
 * Placing characters within unrealistically close proximity
 * Artificial barriers to maintain balance
-* Unnatural mechanics that join domains that would otherwise be unrelated
+* Unnatural mechanics which join domains that would otherwise be unrelated
 * Making abstract domains more concrete and spatial than they normally are
 
 ### Range-Based Logic
