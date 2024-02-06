@@ -13,14 +13,14 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | No subscriptions                    | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | **Totals**                          |         2          |         0          |         4          |         4          |
 |                                     |                    |                    |                    |                    |
-| **Programming**                     |                    |                    |                    |                    |
+| **Programming**                     |     **Unreal**     |     **Unity**      |     **Godot**      |     **GZDoom**     |
 | Targets senior developers           | :heavy_check_mark: |                    |                    |                    |
 | Elegant programming                 |                    | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | Good Refactoring                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Code separate from assets           | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
 | **Totals**                          |         1          |         2          |         3          |         -1         |
 |                                     |                    |                    |                    |                    |
-| **Graphics and Audio**              |                    |                    |                    |                    |
+| **Graphics and Audio**              |     **Unreal**     |     **Unity**      |     **Godot**      |     **GZDoom**     |
 | Gorgeous out-of-the-box             | :heavy_check_mark: |                    |                    |                    |
 | Advanced 3D graphics                | :heavy_check_mark: | :heavy_check_mark: |        :x:         |        :x:         |
 | Lots of free content                | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
@@ -31,7 +31,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Integrated mesh editing             | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
 | **Totals**                          |         8          |         4          |         -3         |         0          |
 |                                     |                    |                    |                    |                    |
-| **Workflow**                        |                    |                    |                    |                    |
+| **Workflow**                        |     **Unreal**     |     **Unity**      |     **Godot**      |     **GZDoom**     |
 | Modular scenes                      |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Text file assets                    |        :x:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Assets use industry standard format |                    | :heavy_check_mark: |                    |                    |
@@ -45,7 +45,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Visual GUI editor                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |        :x:         |
 | **Totals**                          |         4          |         7          |         7          |         2          |
 |                                     |                    |                    |                    |                    |
-| **General Features**                |                    |                    |                    |                    |
+| **General Features**                |     **Unreal**     |     **Unity**      |     **Godot**      |     **GZDoom**     |
 | Integrated 3D game framework        | :heavy_check_mark: |                    |                    | :heavy_check_mark: |
 | Robust profiling tools              | :heavy_check_mark: |                    |        :x:         |        :x:         |
 | Robust input system                 | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
@@ -56,7 +56,7 @@ GZDoom may seem like an odd option, but it is an impressive technology with a la
 | Local multiplayer                   | :heavy_check_mark: | :heavy_check_mark: |                    |        :x:         |
 | **Totals**                          |         7          |         4          |         -1         |         0          |
 |                                     |                    |                    |                    |                    |
-| **Reliability and Usability**       |                    |                    |                    |                    |
+| **Reliability and Usability**       |     **Unreal**     |     **Unity**      |     **Godot**      |     **GZDoom**     |
 | Battle-tested                       | :heavy_check_mark: | :heavy_check_mark: |        :x:         | :heavy_check_mark: |
 | General purpose engine              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Easy editor installation            |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
